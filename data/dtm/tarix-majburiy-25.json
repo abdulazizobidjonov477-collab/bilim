@@ -1,0 +1,269 @@
+{
+  "subject": "DTM",
+  "topic": {
+    "uz": "O'zbekiston tarixi — Majburiy — 25-guruh",
+    "ru": "История Узбекистана — Обязательный — Группа 25"
+  },
+  "questions": [
+    {
+      "id": "tx-mj-25-01",
+      "prompt": {
+        "uz": "O'zbekiston qachon mustaqillikka erishdi?",
+        "ru": "Когда Узбекистан обрёл независимость?"
+      },
+      "options": {
+        "uz": [
+          "1990-yil 1-yanvar",
+          "1992-yil 8-dekabr",
+          "1991-yil 1-sentabr",
+          "1989-yil 1-may"
+        ],
+        "ru": [
+          "1 января 1990 года",
+          "8 декабря 1992 года",
+          "1 сентября 1991 года",
+          "1 мая 1989 года"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "O'zbekiston 1991-yil 1-sentabrda mustaqilligini e'lon qildi.",
+        "ru": "Узбекистан провозгласил независимость 1 сентября 1991 года."
+      }
+    },
+    {
+      "id": "tx-mj-25-02",
+      "prompt": {
+        "uz": "O'zbekiston Respublikasining poytaxti qaysi shahar?",
+        "ru": "Какой город является столицей Республики Узбекистан?"
+      },
+      "options": {
+        "uz": [
+          "Buxoro",
+          "Toshkent",
+          "Samarqand",
+          "Andijon"
+        ],
+        "ru": [
+          "Бухара",
+          "Ташкент",
+          "Самарканд",
+          "Андижан"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Toshkent — O'zbekistonning poytaxti va eng yirik shahri.",
+        "ru": "Ташкент — столица и крупнейший город Узбекистана."
+      }
+    },
+    {
+      "id": "tx-mj-25-03",
+      "prompt": {
+        "uz": "Amir Temur qaysi shaharda tug'ilgan?",
+        "ru": "В каком городе родился Амир Темур?"
+      },
+      "options": {
+        "uz": [
+          "Buxoro",
+          "Samarqand",
+          "Xiva",
+          "Shahrisabz"
+        ],
+        "ru": [
+          "Бухара",
+          "Самарканд",
+          "Хива",
+          "Шахрисабз"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Amir Temur 1336-yilda Shahrisabz shahrida tug'ilgan.",
+        "ru": "Амир Темур родился в 1336 году в городе Шахрисабз."
+      }
+    },
+    {
+      "id": "tx-mj-25-04",
+      "prompt": {
+        "uz": "Amir Temur imperiyasining poytaxti qaysi shahar bo'lgan?",
+        "ru": "Какой город был столицей империи Амира Темура?"
+      },
+      "options": {
+        "uz": [
+          "Xiva",
+          "Samarqand",
+          "Buxoro",
+          "Toshkent"
+        ],
+        "ru": [
+          "Хива",
+          "Самарканд",
+          "Бухара",
+          "Ташкент"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Samarqand Amir Temur davlatining poytaxti bo'lgan.",
+        "ru": "Самарканд был столицей государства Амира Темура."
+      }
+    },
+    {
+      "id": "tx-mj-25-05",
+      "prompt": {
+        "uz": "Mirzo Ulug'bek kim bo'lgan?",
+        "ru": "Кем был Мирзо Улугбек?"
+      },
+      "options": {
+        "uz": [
+          "Savdogar",
+          "Rassom",
+          "Olim-astronom va hukmdor",
+          "Harbiy admiral"
+        ],
+        "ru": [
+          "Торговец",
+          "Художник",
+          "Учёный-астроном и правитель",
+          "Военный адмирал"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Mirzo Ulug'bek buyuk astronom olim va Samarqandda hukmronlik qilgan Temuriy shahzoda edi.",
+        "ru": "Мирзо Улугбек был великим учёным-астрономом и тимуридским правителем Самарканда."
+      }
+    },
+    {
+      "id": "tx-mj-25-06",
+      "prompt": {
+        "uz": "Zahiriddin Muhammad Bobur qayerda tug'ilgan?",
+        "ru": "Где родился Захириддин Мухаммад Бабур?"
+      },
+      "options": {
+        "uz": [
+          "Xiva",
+          "Andijon",
+          "Toshkent",
+          "Samarqand"
+        ],
+        "ru": [
+          "Хива",
+          "Андижан",
+          "Ташкент",
+          "Самарканд"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Bobur 1483-yilda Andijonda tug'ilgan.",
+        "ru": "Бабур родился в 1483 году в Андижане."
+      }
+    },
+    {
+      "id": "tx-mj-25-07",
+      "prompt": {
+        "uz": "Bobur qaysi imperiyaga asos solgan?",
+        "ru": "Какую империю основал Бабур?"
+      },
+      "options": {
+        "uz": [
+          "Rim imperiyasi",
+          "Usmonli imperiyasi",
+          "Boburiylar (Mo'g'ullar) imperiyasi",
+          "Safaviylar davlati"
+        ],
+        "ru": [
+          "Римскую империю",
+          "Османскую империю",
+          "Империю Великих Моголов",
+          "Государство Сефевидов"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Bobur Hindistonda Boburiylar (Mo'g'ullar) imperiyasiga asos solgan.",
+        "ru": "Бабур основал в Индии империю Великих Моголов."
+      }
+    },
+    {
+      "id": "tx-mj-25-08",
+      "prompt": {
+        "uz": "O'zbekiston qaysi qit'ada joylashgan?",
+        "ru": "На каком континенте расположен Узбекистан?"
+      },
+      "options": {
+        "uz": [
+          "Yevropa",
+          "Afrika",
+          "Osiyo",
+          "Avstraliya"
+        ],
+        "ru": [
+          "Европа",
+          "Африка",
+          "Азия",
+          "Австралия"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "O'zbekiston Markaziy Osiyoda joylashgan.",
+        "ru": "Узбекистан расположен в Центральной Азии."
+      }
+    },
+    {
+      "id": "tx-mj-25-09",
+      "prompt": {
+        "uz": "Buxoro, Xiva va Samarqand nima bilan mashhur?",
+        "ru": "Чем знамениты Бухара, Хива и Самарканд?"
+      },
+      "options": {
+        "uz": [
+          "Qadimiy tarixiy me'moriy yodgorliklari bilan",
+          "Dengiz portlari bilan",
+          "Zamonaviy zavodlari bilan",
+          "Tog' cho'qqilari bilan"
+        ],
+        "ru": [
+          "Древними историческими архитектурными памятниками",
+          "Морскими портами",
+          "Современными заводами",
+          "Горными вершинами"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Bu shaharlar Buyuk Ipak yo'lidagi qadimiy me'moriy yodgorliklari bilan mashhur va UNESCO ro'yxatiga kiritilgan.",
+        "ru": "Эти города знамениты древними архитектурными памятниками на Великом шёлковом пути и внесены в список ЮНЕСКО."
+      }
+    },
+    {
+      "id": "tx-mj-25-10",
+      "prompt": {
+        "uz": "O'zbekistonning milliy valyutasi qanday nomlanadi?",
+        "ru": "Как называется национальная валюта Узбекистана?"
+      },
+      "options": {
+        "uz": [
+          "So'm",
+          "Rubl",
+          "Tenge",
+          "Manat"
+        ],
+        "ru": [
+          "Сум",
+          "Рубль",
+          "Тенге",
+          "Манат"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "O'zbekistonning milliy valyutasi — so'm.",
+        "ru": "Национальная валюта Узбекистана — сум."
+      }
+    }
+  ]
+}

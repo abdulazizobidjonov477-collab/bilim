@@ -1,0 +1,789 @@
+{
+  "subject": "DTM",
+  "topic": {
+    "uz": "O'zbekiston tarixi — Mutaxassislik — 16-guruh",
+    "ru": "История Узбекистана — Профильный — Группа 16"
+  },
+  "questions": [
+    {
+      "id": "tx-mx-16-01",
+      "prompt": {
+        "uz": "Amir Temur qachon tug'ilgan?",
+        "ru": "Когда родился Амир Темур?"
+      },
+      "options": {
+        "uz": [
+          "1370-yil",
+          "1405-yil",
+          "1320-yil",
+          "1336-yil"
+        ],
+        "ru": [
+          "1370 год",
+          "1405 год",
+          "1320 год",
+          "1336 год"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Amir Temur 1336-yil 9-aprelda tug'ilgan.",
+        "ru": "Амир Темур родился 9 апреля 1336 года."
+      }
+    },
+    {
+      "id": "tx-mx-16-02",
+      "prompt": {
+        "uz": "Amir Temur qachon vafot etgan?",
+        "ru": "Когда умер Амир Темур?"
+      },
+      "options": {
+        "uz": [
+          "1336-yil",
+          "1370-yil",
+          "1450-yil",
+          "1405-yil"
+        ],
+        "ru": [
+          "1336 год",
+          "1370 год",
+          "1450 год",
+          "1405 год"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Amir Temur 1405-yilda Xitoyga yurish chog'ida vafot etgan.",
+        "ru": "Амир Темур умер в 1405 году во время похода на Китай."
+      }
+    },
+    {
+      "id": "tx-mx-16-03",
+      "prompt": {
+        "uz": "Ulug'bek observatoriyasi qaysi shaharda joylashgan?",
+        "ru": "В каком городе находится обсерватория Улугбека?"
+      },
+      "options": {
+        "uz": [
+          "Samarqand",
+          "Toshkent",
+          "Xiva",
+          "Buxoro"
+        ],
+        "ru": [
+          "Самарканд",
+          "Ташкент",
+          "Хива",
+          "Бухара"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Ulug'bek observatoriyasi Samarqandda joylashgan bo'lib, 15-asrda qurilgan.",
+        "ru": "Обсерватория Улугбека находится в Самарканде и была построена в XV веке."
+      }
+    },
+    {
+      "id": "tx-mx-16-04",
+      "prompt": {
+        "uz": "O'zbekiston SSR qachon tashkil topgan?",
+        "ru": "Когда была образована Узбекская ССР?"
+      },
+      "options": {
+        "uz": [
+          "1917-yil",
+          "1924-yil",
+          "1936-yil",
+          "1991-yil"
+        ],
+        "ru": [
+          "1917 год",
+          "1924 год",
+          "1936 год",
+          "1991 год"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "O'zbekiston Sovet Sotsialistik Respublikasi 1924-yilda milliy chegaralanish natijasida tashkil etilgan.",
+        "ru": "Узбекская ССР была образована в 1924 году в результате национального размежевания."
+      }
+    },
+    {
+      "id": "tx-mx-16-05",
+      "prompt": {
+        "uz": "Buyuk Ipak yo'li nimani anglatadi?",
+        "ru": "Что означает Великий шёлковый путь?"
+      },
+      "options": {
+        "uz": [
+          "Zamonaviy temir yo'l tarmog'i",
+          "Sharq va G'arbni bog'lagan qadimiy savdo yo'li",
+          "Dengiz orqali sayohat marshruti",
+          "Harbiy yurish yo'nalishi"
+        ],
+        "ru": [
+          "Современная железнодорожная сеть",
+          "Древний торговый путь, соединявший Восток и Запад",
+          "Морской туристический маршрут",
+          "Направление военного похода"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Buyuk Ipak yo'li qadimda Sharq va G'arb o'rtasidagi savdo va madaniy aloqalarni ta'minlagan.",
+        "ru": "Великий шёлковый путь обеспечивал торговые и культурные связи между Востоком и Западом в древности."
+      }
+    },
+    {
+      "id": "tx-mx-16-06",
+      "prompt": {
+        "uz": "Al-Xorazmiy qaysi soha bilan mashhur bo'lgan?",
+        "ru": "В какой области был знаменит аль-Хорезми?"
+      },
+      "options": {
+        "uz": [
+          "Adabiyot",
+          "Harbiy san'at",
+          "Matematika va astronomiya",
+          "Musiqa"
+        ],
+        "ru": [
+          "Литература",
+          "Военное искусство",
+          "Математика и астрономия",
+          "Музыка"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Al-Xorazmiy algebra faniga asos solgan buyuk matematik va astronom olim bo'lgan.",
+        "ru": "Аль-Хорезми — великий математик и астроном, основоположник алгебры."
+      }
+    },
+    {
+      "id": "tx-mx-16-07",
+      "prompt": {
+        "uz": "Ibn Sino (Avitsenna) qaysi soha bilan mashhur?",
+        "ru": "В какой области знаменит Ибн Сина (Авиценна)?"
+      },
+      "options": {
+        "uz": [
+          "Musiqa",
+          "Tibbiyot va falsafa",
+          "Arxitektura",
+          "Harbiy strategiya"
+        ],
+        "ru": [
+          "Музыка",
+          "Медицина и философия",
+          "Архитектура",
+          "Военная стратегия"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Ibn Sino o'rta asrlarning buyuk tabibi va faylasufi bo'lgan, 'Tib qonunlari' asari mashhur.",
+        "ru": "Ибн Сина — великий средневековый врач и философ, автор знаменитого 'Канона врачебной науки'."
+      }
+    },
+    {
+      "id": "tx-mx-16-08",
+      "prompt": {
+        "uz": "Sohibqiron laqabi kimga berilgan?",
+        "ru": "Кому был присвоен титул 'Сахибкиран'?"
+      },
+      "options": {
+        "uz": [
+          "Mirzo Ulug'bekka",
+          "Amir Temurga",
+          "Al-Xorazmiyga",
+          "Bobirga"
+        ],
+        "ru": [
+          "Мирзо Улугбеку",
+          "Амиру Темуру",
+          "Аль-Хорезми",
+          "Бабуру"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "'Sohibqiron' (baxtli yulduz sohibi) — Amir Temurga berilgan faxriy laqab.",
+        "ru": "'Сахибкиран' (обладатель счастливой звезды) — почётный титул, данный Амиру Темуру."
+      }
+    },
+    {
+      "id": "tx-mx-16-09",
+      "prompt": {
+        "uz": "O'zbekiston Konstitutsiyasi qachon qabul qilingan?",
+        "ru": "Когда была принята Конституция Узбекистана?"
+      },
+      "options": {
+        "uz": [
+          "1992-yil 8-dekabr",
+          "1994-yil 1-iyul",
+          "1990-yil 20-iyun",
+          "1991-yil 1-sentabr"
+        ],
+        "ru": [
+          "8 декабря 1992 года",
+          "1 июля 1994 года",
+          "20 июня 1990 года",
+          "1 сентября 1991 года"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "O'zbekiston Respublikasining Konstitutsiyasi 1992-yil 8-dekabrda qabul qilingan.",
+        "ru": "Конституция Республики Узбекистан была принята 8 декабря 1992 года."
+      }
+    },
+    {
+      "id": "tx-mx-16-10",
+      "prompt": {
+        "uz": "Xorazm davlati qaysi mintaqada joylashgan bo'lgan?",
+        "ru": "В каком регионе располагалось государство Хорезм?"
+      },
+      "options": {
+        "uz": [
+          "Zarafshon vohasida",
+          "Pomir tog'larida",
+          "Amudaryoning quyi oqimida",
+          "Farg'ona vodiysida"
+        ],
+        "ru": [
+          "В оазисе Зарафшан",
+          "В горах Памира",
+          "В нижнем течении Амударьи",
+          "В Ферганской долине"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Qadimgi Xorazm davlati Amudaryoning quyi oqimi hududida joylashgan edi.",
+        "ru": "Древнее государство Хорезм располагалось в нижнем течении Амударьи."
+      }
+    },
+    {
+      "id": "tx-mx-16-11",
+      "prompt": {
+        "uz": "Sug'diyona qadimda qaysi hudud nomi bo'lgan?",
+        "ru": "Каким регионом в древности называлась Согдиана?"
+      },
+      "options": {
+        "uz": [
+          "Farg'ona vodiysi",
+          "Ustyurt platosi",
+          "Orol dengizi bo'yi",
+          "Samarqand-Buxoro atrofidagi hudud"
+        ],
+        "ru": [
+          "Ферганская долина",
+          "Плато Устюрт",
+          "Побережье Аральского моря",
+          "Область вокруг Самарканда-Бухары"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Sug'diyona — qadimda Samarqand va Buxoro atrofidagi hududning nomi bo'lgan.",
+        "ru": "Согдиана — древнее название области вокруг Самарканда и Бухары."
+      }
+    },
+    {
+      "id": "tx-mx-16-12",
+      "prompt": {
+        "uz": "Shohruh Mirzo kim bo'lgan?",
+        "ru": "Кем был Шахрух Мирзо?"
+      },
+      "options": {
+        "uz": [
+          "Rassom",
+          "Me'mor",
+          "Chet ellik sayohatchi",
+          "Amir Temurning o'g'li va davlat hukmdori"
+        ],
+        "ru": [
+          "Художник",
+          "Архитектор",
+          "Иностранный путешественник",
+          "Сын Амира Темура и правитель государства"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Shohruh Mirzo Amir Temurning o'g'li bo'lib, Hirotda hukmronlik qilgan.",
+        "ru": "Шахрух Мирзо был сыном Амира Темура и правил в Герате."
+      }
+    },
+    {
+      "id": "tx-mx-16-13",
+      "prompt": {
+        "uz": "Registon maydoni qaysi shaharda joylashgan?",
+        "ru": "В каком городе находится площадь Регистан?"
+      },
+      "options": {
+        "uz": [
+          "Xiva",
+          "Buxoro",
+          "Toshkent",
+          "Samarqand"
+        ],
+        "ru": [
+          "Хива",
+          "Бухара",
+          "Ташкент",
+          "Самарканд"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Registon maydoni Samarqand shahrining markazida joylashgan mashhur me'moriy majmua.",
+        "ru": "Площадь Регистан — знаменитый архитектурный ансамбль в центре Самарканда."
+      }
+    },
+    {
+      "id": "tx-mx-16-14",
+      "prompt": {
+        "uz": "Amir Temur qanday davlatga asos solgan?",
+        "ru": "Какое государство основал Амир Темур?"
+      },
+      "options": {
+        "uz": [
+          "Safaviylar davlati",
+          "Usmonli davlati",
+          "Boburiylar davlati",
+          "Temuriylar davlati"
+        ],
+        "ru": [
+          "Государство Сефевидов",
+          "Османское государство",
+          "Государство Великих Моголов",
+          "Государство Тимуридов"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Amir Temur Markaziy Osiyoda Temuriylar davlatiga asos solgan.",
+        "ru": "Амир Темур основал в Центральной Азии государство Тимуридов."
+      }
+    },
+    {
+      "id": "tx-mx-16-15",
+      "prompt": {
+        "uz": "Farobiy qaysi soha vakili bo'lgan?",
+        "ru": "В какой области был представителем Фараби?"
+      },
+      "options": {
+        "uz": [
+          "Musiqa ijrochiligi",
+          "Falsafa va ilm-fan",
+          "Harbiy sohа",
+          "Savdo"
+        ],
+        "ru": [
+          "Музыкальное исполнительство",
+          "Философия и наука",
+          "Военное дело",
+          "Торговля"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Abu Nasr Farobiy 'Ikkinchi muallim' laqabini olgan buyuk faylasuf va olim bo'lgan.",
+        "ru": "Абу Наср Фараби — великий философ и учёный, получивший прозвище 'Второй учитель'."
+      }
+    },
+    {
+      "id": "tx-mx-16-16",
+      "prompt": {
+        "uz": "Amir Temur maqbarasi qanday nomlanadi?",
+        "ru": "Как называется мавзолей Амира Темура?"
+      },
+      "options": {
+        "uz": [
+          "Gur-Amir",
+          "Registon",
+          "Shohizinda",
+          "Bibi-Xonim"
+        ],
+        "ru": [
+          "Гур-Эмир",
+          "Регистан",
+          "Шахи-Зинда",
+          "Биби-Ханым"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Amir Temur va uning avlodlari dafn etilgan maqbara Gur-Amir deb ataladi.",
+        "ru": "Мавзолей, где похоронены Амир Темур и его потомки, называется Гур-Эмир."
+      }
+    },
+    {
+      "id": "tx-mx-16-17",
+      "prompt": {
+        "uz": "O'zbekiston Birinchi Prezidenti kim bo'lgan?",
+        "ru": "Кто был первым Президентом Узбекистана?"
+      },
+      "options": {
+        "uz": [
+          "Yodgor Nasriddinova",
+          "Islom Karimov",
+          "Shavkat Mirziyoyev",
+          "Sharof Rashidov"
+        ],
+        "ru": [
+          "Ядгар Насриддинова",
+          "Ислам Каримов",
+          "Шавкат Мирзиёев",
+          "Шароф Рашидов"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Islom Karimov O'zbekistonning birinchi Prezidenti bo'lgan.",
+        "ru": "Ислам Каримов был первым Президентом Узбекистана."
+      }
+    },
+    {
+      "id": "tx-mx-16-18",
+      "prompt": {
+        "uz": "Sharof Rashidov qaysi davrda O'zbekiston rahbari bo'lgan?",
+        "ru": "В какой период Шараф Рашидов был руководителем Узбекистана?"
+      },
+      "options": {
+        "uz": [
+          "Temuriylar davrida",
+          "Sovet davrida (1959-1983)",
+          "19-asrda",
+          "Mustaqillikdan keyin"
+        ],
+        "ru": [
+          "В эпоху Тимуридов",
+          "В советский период (1959-1983)",
+          "В XIX веке",
+          "После независимости"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Sharof Rashidov 1959-1983-yillarda O'zbekiston Kompartiyasi rahbari bo'lgan.",
+        "ru": "Шараф Рашидов был руководителем Компартии Узбекистана в 1959-1983 годах."
+      }
+    },
+    {
+      "id": "tx-mx-16-19",
+      "prompt": {
+        "uz": "Qadimgi Baqtriya davlati qaysi hududda joylashgan edi?",
+        "ru": "В каком регионе располагалось древнее государство Бактрия?"
+      },
+      "options": {
+        "uz": [
+          "Xorazm",
+          "Farg'ona vodiysi",
+          "Hozirgi Surxondaryo va Afg'oniston shimoli",
+          "Orol bo'yi"
+        ],
+        "ru": [
+          "Хорезм",
+          "Ферганская долина",
+          "Современный Сурхандарья и север Афганистана",
+          "Приаралье"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Baqtriya qadimda hozirgi Surxondaryo va Shimoliy Afg'oniston hududlarida joylashgan edi.",
+        "ru": "Бактрия в древности располагалась на территории современного Сурхандарьи и Северного Афганистана."
+      }
+    },
+    {
+      "id": "tx-mx-16-20",
+      "prompt": {
+        "uz": "Chingizxon qo'shinlari Markaziy Osiyoga qaysi asrda bostirib kirgan?",
+        "ru": "В каком веке войска Чингисхана вторглись в Среднюю Азию?"
+      },
+      "options": {
+        "uz": [
+          "18-asr",
+          "15-asr",
+          "10-asr",
+          "13-asr"
+        ],
+        "ru": [
+          "XVIII век",
+          "XV век",
+          "X век",
+          "XIII век"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Mo'g'ullar bosqini 13-asr boshlarida (1219-yildan) sodir bo'lgan.",
+        "ru": "Монгольское нашествие произошло в начале XIII века (с 1219 года)."
+      }
+    },
+    {
+      "id": "tx-mx-16-21",
+      "prompt": {
+        "uz": "Xiva xonligi qaysi hududda joylashgan bo'lgan?",
+        "ru": "В каком регионе располагалось Хивинское ханство?"
+      },
+      "options": {
+        "uz": [
+          "Zarafshon vohasi",
+          "Xorazm vohasi",
+          "Farg'ona vodiysi",
+          "Ustyurt platosi"
+        ],
+        "ru": [
+          "Оазис Зарафшан",
+          "Хорезмский оазис",
+          "Ферганская долина",
+          "Плато Устюрт"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Xiva xonligi Xorazm vohasida joylashgan bo'lgan.",
+        "ru": "Хивинское ханство располагалось в Хорезмском оазисе."
+      }
+    },
+    {
+      "id": "tx-mx-16-22",
+      "prompt": {
+        "uz": "Qo'qon xonligi qaysi hududda joylashgan edi?",
+        "ru": "В каком регионе располагалось Кокандское ханство?"
+      },
+      "options": {
+        "uz": [
+          "Xorazm vohasi",
+          "Surxon vohasi",
+          "Farg'ona vodiysi",
+          "Zarafshon vohasi"
+        ],
+        "ru": [
+          "Хорезмский оазис",
+          "Сурхандарьинский оазис",
+          "Ферганская долина",
+          "Оазис Зарафшан"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Qo'qon xonligi Farg'ona vodiysida hukmronlik qilgan.",
+        "ru": "Кокандское ханство правило в Ферганской долине."
+      }
+    },
+    {
+      "id": "tx-mx-16-23",
+      "prompt": {
+        "uz": "Buxoro amirligi poytaxti qaysi shahar bo'lgan?",
+        "ru": "Какой город был столицей Бухарского эмирата?"
+      },
+      "options": {
+        "uz": [
+          "Samarqand",
+          "Buxoro",
+          "Qo'qon",
+          "Xiva"
+        ],
+        "ru": [
+          "Самарканд",
+          "Бухара",
+          "Коканд",
+          "Хива"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Buxoro amirligining poytaxti Buxoro shahri bo'lgan.",
+        "ru": "Столицей Бухарского эмирата был город Бухара."
+      }
+    },
+    {
+      "id": "tx-mx-16-24",
+      "prompt": {
+        "uz": "Rossiya imperiyasi Turkiston o'lkasini qachon bosib olgan (asosiy davr)?",
+        "ru": "В каком веке в основном произошло завоевание Туркестана Российской империей?"
+      },
+      "options": {
+        "uz": [
+          "15-asr",
+          "19-asr ikkinchi yarmi",
+          "20-asr o'rtasi",
+          "17-asr"
+        ],
+        "ru": [
+          "XV век",
+          "Вторая половина XIX века",
+          "Середина XX века",
+          "XVII век"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Rossiya imperiyasi Turkiston o'lkasini asosan 19-asrning ikkinchi yarmida bosib olgan.",
+        "ru": "Российская империя завоевала Туркестан в основном во второй половине XIX века."
+      }
+    },
+    {
+      "id": "tx-mx-16-25",
+      "prompt": {
+        "uz": "Jadidchilik harakati asosan qaysi davrda faol bo'lgan?",
+        "ru": "В какой период было наиболее активным джадидское движение?"
+      },
+      "options": {
+        "uz": [
+          "20-asr boshi",
+          "19-asr boshi",
+          "15-asr",
+          "Mustaqillikdan keyin"
+        ],
+        "ru": [
+          "Начало XX века",
+          "Начало XIX века",
+          "XV век",
+          "После независимости"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Jadidchilik — 20-asr boshida O'rta Osiyoda ma'rifatparvarlik va isloh harakati bo'lgan.",
+        "ru": "Джадидизм — просветительское и реформаторское движение в Средней Азии начала XX века."
+      }
+    },
+    {
+      "id": "tx-mx-16-26",
+      "prompt": {
+        "uz": "Mahmud Torobiy qanday harakat rahbari bo'lgan?",
+        "ru": "Каким движением руководил Махмуд Тараби?"
+      },
+      "options": {
+        "uz": [
+          "Diniy maktab tashkiloti",
+          "Mo'g'ul bosqinchilariga qarshi xalq qo'zg'oloni",
+          "Me'morlik uyushmasi",
+          "Savdo karvon uyushmasi"
+        ],
+        "ru": [
+          "Религиозная школьная организация",
+          "Народное восстание против монгольских завоевателей",
+          "Архитектурное объединение",
+          "Торговый караванный союз"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Mahmud Torobiy 13-asrda mo'g'ul bosqinchilariga qarshi xalq qo'zg'oloniga rahbarlik qilgan.",
+        "ru": "Махмуд Тараби возглавил народное восстание против монгольских завоевателей в XIII веке."
+      }
+    },
+    {
+      "id": "tx-mx-16-27",
+      "prompt": {
+        "uz": "Temuriylar davri qaysi soha rivoji bilan alohida ajralib turadi?",
+        "ru": "Развитием какой сферы особенно выделяется эпоха Тимуридов?"
+      },
+      "options": {
+        "uz": [
+          "Faqat dengiz savdosi",
+          "Ilm-fan, me'morchilik va madaniyat",
+          "Faqat qishloq xo'jaligi",
+          "Faqat harbiy sanoat"
+        ],
+        "ru": [
+          "Только морская торговля",
+          "Наука, архитектура и культура",
+          "Только сельское хозяйство",
+          "Только военная промышленность"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Temuriylar davri (15-asr) 'Sharq Renessansi' deb ham ataladi — ilm-fan, me'morchilik va madaniyat yuksak rivojlangan.",
+        "ru": "Эпоха Тимуридов (XV век) также называется 'Восточным Ренессансом' — наука, архитектура и культура достигли расцвета."
+      }
+    },
+    {
+      "id": "tx-mx-16-28",
+      "prompt": {
+        "uz": "Bibi-Xonim masjidi qaysi shaharda joylashgan?",
+        "ru": "В каком городе находится мечеть Биби-Ханым?"
+      },
+      "options": {
+        "uz": [
+          "Buxoro",
+          "Termiz",
+          "Xiva",
+          "Samarqand"
+        ],
+        "ru": [
+          "Бухара",
+          "Термез",
+          "Хива",
+          "Самарканд"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Bibi-Xonim masjidi Samarqand shahrida, Amir Temur davrida qurilgan.",
+        "ru": "Мечеть Биби-Ханым находится в Самарканде, построена во времена Амира Темура."
+      }
+    },
+    {
+      "id": "tx-mx-16-29",
+      "prompt": {
+        "uz": "Shohizinda maqbaralar majmuasi qaysi shaharda joylashgan?",
+        "ru": "В каком городе находится комплекс мавзолеев Шахи-Зинда?"
+      },
+      "options": {
+        "uz": [
+          "Buxoro",
+          "Samarqand",
+          "Qarshi",
+          "Xiva"
+        ],
+        "ru": [
+          "Бухара",
+          "Самарканд",
+          "Карши",
+          "Хива"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Shohizinda — Samarqanddagi qadimiy maqbaralar majmuasi bo'lib, turli asrlarda qurilgan.",
+        "ru": "Шахи-Зинда — древний комплекс мавзолеев в Самарканде, построенный в разные века."
+      }
+    },
+    {
+      "id": "tx-mx-16-30",
+      "prompt": {
+        "uz": "O'zbekiston BMTga qachon a'zo bo'lgan?",
+        "ru": "Когда Узбекистан вступил в ООН?"
+      },
+      "options": {
+        "uz": [
+          "1992-yil",
+          "1991-yil",
+          "1989-yil",
+          "1995-yil"
+        ],
+        "ru": [
+          "1992 год",
+          "1991 год",
+          "1989 год",
+          "1995 год"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "O'zbekiston Respublikasi 1992-yilda Birlashgan Millatlar Tashkilotiga a'zo bo'lgan.",
+        "ru": "Республика Узбекистан стала членом Организации Объединённых Наций в 1992 году."
+      }
+    }
+  ]
+}

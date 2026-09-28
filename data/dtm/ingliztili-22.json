@@ -1,0 +1,789 @@
+{
+  "subject": "DTM",
+  "topic": {
+    "uz": "Ingliz tili — 22-guruh",
+    "ru": "Английский язык — Группа 22"
+  },
+  "questions": [
+    {
+      "id": "eng-22-01",
+      "prompt": {
+        "uz": "To'g'ri javobni tanlang: She ___ to school every day.",
+        "ru": "Выберите правильный ответ: She ___ to school every day."
+      },
+      "options": {
+        "uz": [
+          "go",
+          "goes",
+          "gone",
+          "going"
+        ],
+        "ru": [
+          "go",
+          "goes",
+          "gone",
+          "going"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Uchinchi shaxs birlikda (she/he/it) Present Simple'da fe'lga '-s/-es' qo'shiladi: goes.",
+        "ru": "В третьем лице единственного числа (she/he/it) в Present Simple к глаголу добавляется '-s/-es': goes."
+      }
+    },
+    {
+      "id": "eng-22-02",
+      "prompt": {
+        "uz": "To'g'ri javobni tanlang: They ___ watching a movie right now.",
+        "ru": "Выберите правильный ответ: They ___ watching a movie right now."
+      },
+      "options": {
+        "uz": [
+          "be",
+          "is",
+          "are",
+          "am"
+        ],
+        "ru": [
+          "be",
+          "is",
+          "are",
+          "am"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "'They' ko'plik olmoshi bilan Present Continuous'da 'are' ishlatiladi.",
+        "ru": "С местоимением множественного числа 'they' в Present Continuous используется 'are'."
+      }
+    },
+    {
+      "id": "eng-22-03",
+      "prompt": {
+        "uz": "To'g'ri javobni tanlang: I ___ my homework yesterday.",
+        "ru": "Выберите правильный ответ: I ___ my homework yesterday."
+      },
+      "options": {
+        "uz": [
+          "did",
+          "done",
+          "doing",
+          "do"
+        ],
+        "ru": [
+          "did",
+          "done",
+          "doing",
+          "do"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "'Yesterday' o'tgan zamonni bildiradi, shuning uchun 'do' fe'lining Past Simple shakli 'did' ishlatiladi.",
+        "ru": "'Yesterday' указывает на прошедшее время, поэтому используется форма Past Simple глагола 'do' — 'did'."
+      }
+    },
+    {
+      "id": "eng-22-04",
+      "prompt": {
+        "uz": "To'g'ri artiklni tanlang: I saw ___ elephant at the zoo.",
+        "ru": "Выберите правильный артикль: I saw ___ elephant at the zoo."
+      },
+      "options": {
+        "uz": [
+          "a",
+          "-",
+          "the",
+          "an"
+        ],
+        "ru": [
+          "a",
+          "-",
+          "the",
+          "an"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "'Elephant' unli tovush bilan boshlangani uchun 'an' artikli ishlatiladi.",
+        "ru": "Перед словом 'elephant', начинающимся с гласного звука, используется артикль 'an'."
+      }
+    },
+    {
+      "id": "eng-22-05",
+      "prompt": {
+        "uz": "Ko'plik shaklini tanlang: child → ?",
+        "ru": "Выберите форму множественного числа: child → ?"
+      },
+      "options": {
+        "uz": [
+          "child's",
+          "children",
+          "childes",
+          "childs"
+        ],
+        "ru": [
+          "child's",
+          "children",
+          "childes",
+          "childs"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "'Child' so'zining ko'plik shakli istisno bo'lib, 'children' deb yoziladi.",
+        "ru": "Множественное число слова 'child' является исключением и пишется 'children'."
+      }
+    },
+    {
+      "id": "eng-22-06",
+      "prompt": {
+        "uz": "To'g'ri predlogni tanlang: The book is ___ the table.",
+        "ru": "Выберите правильный предлог: The book is ___ the table."
+      },
+      "options": {
+        "uz": [
+          "at",
+          "in",
+          "of",
+          "on"
+        ],
+        "ru": [
+          "at",
+          "in",
+          "of",
+          "on"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Biror narsaning yuza ustida turganini bildirish uchun 'on' predlogi ishlatiladi.",
+        "ru": "Предлог 'on' используется, чтобы показать, что предмет находится на поверхности."
+      }
+    },
+    {
+      "id": "eng-22-07",
+      "prompt": {
+        "uz": "To'g'ri javobni tanlang: If it rains, I ___ stay home.",
+        "ru": "Выберите правильный ответ: If it rains, I ___ stay home."
+      },
+      "options": {
+        "uz": [
+          "would",
+          "was",
+          "am",
+          "will"
+        ],
+        "ru": [
+          "would",
+          "was",
+          "am",
+          "will"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Birinchi turdagi shart gapda (Zero/First Conditional) natija qismida 'will' ishlatiladi.",
+        "ru": "В условном предложении первого типа в результативной части используется 'will'."
+      }
+    },
+    {
+      "id": "eng-22-08",
+      "prompt": {
+        "uz": "Solishtirma daraja to'g'ri shaklini tanlang: This car is ___ than that one.",
+        "ru": "Выберите правильную сравнительную форму: This car is ___ than that one."
+      },
+      "options": {
+        "uz": [
+          "faster",
+          "fast",
+          "more fast",
+          "fastest"
+        ],
+        "ru": [
+          "faster",
+          "fast",
+          "more fast",
+          "fastest"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Qisqa sifatlarga solishtirma darajada '-er' qo'shimchasi qo'shiladi: faster.",
+        "ru": "К коротким прилагательным в сравнительной степени добавляется суффикс '-er': faster."
+      }
+    },
+    {
+      "id": "eng-22-09",
+      "prompt": {
+        "uz": "To'g'ri javobni tanlang: She has ___ finished her work.",
+        "ru": "Выберите правильный ответ: She has ___ finished her work."
+      },
+      "options": {
+        "uz": [
+          "yet",
+          "ago",
+          "already",
+          "still"
+        ],
+        "ru": [
+          "yet",
+          "ago",
+          "already",
+          "still"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Present Perfect'da ijobiy gapda 'already' (allaqachon) ishlatiladi.",
+        "ru": "В утвердительном предложении Present Perfect используется 'already' (уже)."
+      }
+    },
+    {
+      "id": "eng-22-10",
+      "prompt": {
+        "uz": "To'g'ri javobni tanlang: We ___ live in London for ten years.",
+        "ru": "Выберите правильный ответ: We ___ live in London for ten years."
+      },
+      "options": {
+        "uz": [
+          "have",
+          "having",
+          "has",
+          "had"
+        ],
+        "ru": [
+          "have",
+          "having",
+          "has",
+          "had"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "'We' ko'plik olmoshi bilan Present Perfect'da 'have' ishlatiladi.",
+        "ru": "С местоимением множественного числа 'we' в Present Perfect используется 'have'."
+      }
+    },
+    {
+      "id": "eng-22-11",
+      "prompt": {
+        "uz": "To'g'ri javobni tanlang: My sister is ___ than me.",
+        "ru": "Выберите правильный ответ: My sister is ___ than me."
+      },
+      "options": {
+        "uz": [
+          "more tall",
+          "tallest",
+          "tall",
+          "taller"
+        ],
+        "ru": [
+          "more tall",
+          "tallest",
+          "tall",
+          "taller"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Qisqa sifat 'tall' solishtirma darajada 'taller' bo'ladi.",
+        "ru": "Короткое прилагательное 'tall' в сравнительной степени становится 'taller'."
+      }
+    },
+    {
+      "id": "eng-22-12",
+      "prompt": {
+        "uz": "To'g'ri javobni tanlang: He doesn't ___ coffee.",
+        "ru": "Выберите правильный ответ: He doesn't ___ coffee."
+      },
+      "options": {
+        "uz": [
+          "like",
+          "liked",
+          "liking",
+          "likes"
+        ],
+        "ru": [
+          "like",
+          "liked",
+          "liking",
+          "likes"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "'Doesn't' yordamchi fe'lidan keyin fe'l asos shaklida keladi: like.",
+        "ru": "После вспомогательного глагола 'doesn't' основной глагол используется в базовой форме: like."
+      }
+    },
+    {
+      "id": "eng-22-13",
+      "prompt": {
+        "uz": "To'g'ri javobni tanlang: ___ you like some tea?",
+        "ru": "Выберите правильный ответ: ___ you like some tea?"
+      },
+      "options": {
+        "uz": [
+          "Would",
+          "Do",
+          "Will",
+          "Are"
+        ],
+        "ru": [
+          "Would",
+          "Do",
+          "Will",
+          "Are"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Xushmuomalalik bilan taklif qilishda 'Would you like...?' iborasi ishlatiladi.",
+        "ru": "Для вежливого предложения используется выражение 'Would you like...?'."
+      }
+    },
+    {
+      "id": "eng-22-14",
+      "prompt": {
+        "uz": "To'g'ri javobni tanlang: This is the ___ book I have ever read.",
+        "ru": "Выберите правильный ответ: This is the ___ book I have ever read."
+      },
+      "options": {
+        "uz": [
+          "good",
+          "better",
+          "goodest",
+          "best"
+        ],
+        "ru": [
+          "good",
+          "better",
+          "goodest",
+          "best"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "'Good' so'zining orttirma darajasi istisno bo'lib, 'best' deyiladi.",
+        "ru": "Превосходная степень слова 'good' является исключением и звучит как 'best'."
+      }
+    },
+    {
+      "id": "eng-22-15",
+      "prompt": {
+        "uz": "To'g'ri javobni tanlang: I wish I ___ more time.",
+        "ru": "Выберите правильный ответ: I wish I ___ more time."
+      },
+      "options": {
+        "uz": [
+          "has",
+          "will have",
+          "had",
+          "have"
+        ],
+        "ru": [
+          "has",
+          "will have",
+          "had",
+          "have"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "'I wish' dan keyin hozirgi vaqtga nisbatan istak bildirishda Past Simple ishlatiladi: had.",
+        "ru": "После 'I wish' для выражения желания о настоящем используется Past Simple: had."
+      }
+    },
+    {
+      "id": "eng-22-16",
+      "prompt": {
+        "uz": "To'g'ri javobni tanlang: The letter ___ by John yesterday.",
+        "ru": "Выберите правильный ответ: The letter ___ by John yesterday."
+      },
+      "options": {
+        "uz": [
+          "was written",
+          "writes",
+          "wrote",
+          "is written"
+        ],
+        "ru": [
+          "was written",
+          "writes",
+          "wrote",
+          "is written"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Bu mavhum harakat qilinuvchi (passive) gap, o'tgan zamonda: was written.",
+        "ru": "Это предложение в страдательном залоге, в прошедшем времени: was written."
+      }
+    },
+    {
+      "id": "eng-22-17",
+      "prompt": {
+        "uz": "To'g'ri javobni tanlang: Neither Tom ___ his brother came to the party.",
+        "ru": "Выберите правильный ответ: Neither Tom ___ his brother came to the party."
+      },
+      "options": {
+        "uz": [
+          "but",
+          "or",
+          "nor",
+          "and"
+        ],
+        "ru": [
+          "but",
+          "or",
+          "nor",
+          "and"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "'Neither...nor...' bog'lovchisi juft holda ishlatiladi.",
+        "ru": "Союз 'neither...nor...' используется парой."
+      }
+    },
+    {
+      "id": "eng-22-18",
+      "prompt": {
+        "uz": "To'g'ri javobni tanlang: By next year, she ___ her studies.",
+        "ru": "Выберите правильный ответ: By next year, she ___ her studies."
+      },
+      "options": {
+        "uz": [
+          "will finish",
+          "will have finished",
+          "finished",
+          "finishes"
+        ],
+        "ru": [
+          "will finish",
+          "will have finished",
+          "finished",
+          "finishes"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Kelajakdagi ma'lum vaqtgacha tugallangan harakat uchun Future Perfect ishlatiladi.",
+        "ru": "Для действия, завершённого к определённому моменту в будущем, используется Future Perfect."
+      }
+    },
+    {
+      "id": "eng-22-19",
+      "prompt": {
+        "uz": "To'g'ri javobni tanlang: She speaks English ___ than her brother.",
+        "ru": "Выберите правильный ответ: She speaks English ___ than her brother."
+      },
+      "options": {
+        "uz": [
+          "fluently",
+          "more fluently",
+          "most fluently",
+          "fluenter"
+        ],
+        "ru": [
+          "fluently",
+          "more fluently",
+          "most fluently",
+          "fluenter"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Uzun ravishlarda solishtirma daraja 'more' yordamida hosil qilinadi.",
+        "ru": "У длинных наречий сравнительная степень образуется с помощью 'more'."
+      }
+    },
+    {
+      "id": "eng-22-20",
+      "prompt": {
+        "uz": "To'g'ri javobni tanlang: I haven't seen him ___ Monday.",
+        "ru": "Выберите правильный ответ: I haven't seen him ___ Monday."
+      },
+      "options": {
+        "uz": [
+          "since",
+          "for",
+          "from",
+          "at"
+        ],
+        "ru": [
+          "since",
+          "for",
+          "from",
+          "at"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Aniq bir vaqt nuqtasidan boshlab davom etayotgan harakat uchun 'since' ishlatiladi.",
+        "ru": "Для действия, продолжающегося с определённой точки времени, используется 'since'."
+      }
+    },
+    {
+      "id": "eng-22-21",
+      "prompt": {
+        "uz": "To'g'ri javobni tanlang: This is the man ___ car was stolen.",
+        "ru": "Выберите правильный ответ: This is the man ___ car was stolen."
+      },
+      "options": {
+        "uz": [
+          "which",
+          "whose",
+          "who",
+          "whom"
+        ],
+        "ru": [
+          "which",
+          "whose",
+          "who",
+          "whom"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Egalikni bildiruvchi bog'lovchi olmosh 'whose' ishlatiladi.",
+        "ru": "Притяжательное относительное местоимение 'whose' используется для указания принадлежности."
+      }
+    },
+    {
+      "id": "eng-22-22",
+      "prompt": {
+        "uz": "To'g'ri javobni tanlang: He suggested ___ to the cinema.",
+        "ru": "Выберите правильный ответ: He suggested ___ to the cinema."
+      },
+      "options": {
+        "uz": [
+          "going",
+          "go",
+          "went",
+          "to go"
+        ],
+        "ru": [
+          "going",
+          "go",
+          "went",
+          "to go"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "'Suggest' fe'lidan keyin gerund (-ing) shakli keladi: going.",
+        "ru": "После глагола 'suggest' используется форма герундия (-ing): going."
+      }
+    },
+    {
+      "id": "eng-22-23",
+      "prompt": {
+        "uz": "To'g'ri javobni tanlang: If I ___ rich, I would travel the world.",
+        "ru": "Выберите правильный ответ: If I ___ rich, I would travel the world."
+      },
+      "options": {
+        "uz": [
+          "am",
+          "will be",
+          "was",
+          "were"
+        ],
+        "ru": [
+          "am",
+          "will be",
+          "was",
+          "were"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Ikkinchi turdagi shart gapda (Second Conditional) 'be' fe'li barcha shaxslarda 'were' bo'ladi.",
+        "ru": "В условном предложении второго типа глагол 'be' для всех лиц употребляется как 'were'."
+      }
+    },
+    {
+      "id": "eng-22-24",
+      "prompt": {
+        "uz": "To'g'ri javobni tanlang: I'm looking forward to ___ you soon.",
+        "ru": "Выберите правильный ответ: I'm looking forward to ___ you soon."
+      },
+      "options": {
+        "uz": [
+          "see",
+          "seen",
+          "seeing",
+          "saw"
+        ],
+        "ru": [
+          "see",
+          "seen",
+          "seeing",
+          "saw"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "'Look forward to' iborasidan keyin gerund (-ing) shakli keladi.",
+        "ru": "После выражения 'look forward to' используется форма герундия (-ing)."
+      }
+    },
+    {
+      "id": "eng-22-25",
+      "prompt": {
+        "uz": "To'g'ri javobni tanlang: The news ___ surprising.",
+        "ru": "Выберите правильный ответ: The news ___ surprising."
+      },
+      "options": {
+        "uz": [
+          "is",
+          "are",
+          "have been",
+          "were"
+        ],
+        "ru": [
+          "is",
+          "are",
+          "have been",
+          "were"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "'News' so'zi shaklan ko'plik bo'lsa-da, birlik fe'l bilan ishlatiladi: is.",
+        "ru": "Слово 'news' хотя и выглядит как множественное число, употребляется с глаголом единственного числа: is."
+      }
+    },
+    {
+      "id": "eng-22-26",
+      "prompt": {
+        "uz": "To'g'ri javobni tanlang: Despite ___ tired, she finished the race.",
+        "ru": "Выберите правильный ответ: Despite ___ tired, she finished the race."
+      },
+      "options": {
+        "uz": [
+          "is",
+          "be",
+          "was",
+          "being"
+        ],
+        "ru": [
+          "is",
+          "be",
+          "was",
+          "being"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "'Despite' dan keyin gerund (-ing) shakli keladi: being.",
+        "ru": "После 'despite' используется форма герундия (-ing): being."
+      }
+    },
+    {
+      "id": "eng-22-27",
+      "prompt": {
+        "uz": "To'g'ri javobni tanlang: He is used to ___ up early.",
+        "ru": "Выберите правильный ответ: He is used to ___ up early."
+      },
+      "options": {
+        "uz": [
+          "get",
+          "getting",
+          "got",
+          "gets"
+        ],
+        "ru": [
+          "get",
+          "getting",
+          "got",
+          "gets"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "'Be used to' iborasidan keyin gerund (-ing) shakli keladi.",
+        "ru": "После выражения 'be used to' используется форма герундия (-ing)."
+      }
+    },
+    {
+      "id": "eng-22-28",
+      "prompt": {
+        "uz": "To'g'ri javobni tanlang: Not only ___ late, but he also forgot his homework.",
+        "ru": "Выберите правильный ответ: Not only ___ late, but he also forgot his homework."
+      },
+      "options": {
+        "uz": [
+          "was he",
+          "he was",
+          "he is",
+          "is he"
+        ],
+        "ru": [
+          "was he",
+          "he was",
+          "he is",
+          "is he"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "'Not only' gap boshida kelganda inversiya qo'llaniladi: was he.",
+        "ru": "Когда 'not only' стоит в начале предложения, используется инверсия: was he."
+      }
+    },
+    {
+      "id": "eng-22-29",
+      "prompt": {
+        "uz": "To'g'ri javobni tanlang: I'd rather you ___ that.",
+        "ru": "Выберите правильный ответ: I'd rather you ___ that."
+      },
+      "options": {
+        "uz": [
+          "didn't do",
+          "don't do",
+          "not do",
+          "won't do"
+        ],
+        "ru": [
+          "didn't do",
+          "don't do",
+          "not do",
+          "won't do"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "'I'd rather + subject' dan keyin Past Simple ishlatiladi (hozirgi istak/afzallikni bildirish uchun).",
+        "ru": "После 'I'd rather + подлежащее' используется Past Simple для выражения предпочтения в настоящем."
+      }
+    },
+    {
+      "id": "eng-22-30",
+      "prompt": {
+        "uz": "To'g'ri javobni tanlang: She is one of the ___ students in our class.",
+        "ru": "Выберите правильный ответ: She is one of the ___ students in our class."
+      },
+      "options": {
+        "uz": [
+          "talentedest",
+          "talented",
+          "more talented",
+          "most talented"
+        ],
+        "ru": [
+          "talentedest",
+          "talented",
+          "more talented",
+          "most talented"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Uzun sifatlarning orttirma darajasi 'most' yordamida hosil qilinadi.",
+        "ru": "Превосходная степень длинных прилагательных образуется с помощью 'most'."
+      }
+    }
+  ]
+}

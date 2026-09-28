@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chemistry — Bilim</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="page-chem">
+
+  <div class="page-topbar">
+    <a href="index.html" class="logo">
+      <span class="logo-mark">B</span>
+      <span class="logo-text">Bilim</span>
+    </a>
+
+    <div class="lang-switcher" id="langSwitcher">
+      <button class="lang-btn" id="langBtn" aria-haspopup="listbox" aria-expanded="false">
+        <svg class="globe-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="1.6"/>
+          <path d="M3 12h18M12 3c2.5 2.6 3.8 5.7 3.8 9s-1.3 6.4-3.8 9c-2.5-2.6-3.8-5.7-3.8-9s1.3-6.4 3.8-9z" stroke="currentColor" stroke-width="1.6"/>
+        </svg>
+        <span id="langCurrent">EN</span>
+        <svg class="chev" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+      </button>
+      <ul class="lang-menu" id="langMenu" role="listbox">
+        <li role="option" data-lang="en">English</li>
+        <li role="option" data-lang="uz">O'zbekcha</li>
+      </ul>
+    </div>
+  </div>
+
+  <p class="breadcrumb"><a href="index.html" data-i18n="home">Home</a> / Chemistry</p>
+
+  <div class="subject-banner">
+    <h1 data-i18n="title">Chemistry</h1>
+    <p data-i18n="subtitle">A step-by-step path from atoms to reactions — follow the order below.</p>
+  </div>
+
+  <div class="lesson-grid">
+    <div class="lesson-card">
+      <span class="lesson-num">01</span>
+      <h3 data-i18n="t1">Atomic Structure</h3>
+      <p data-i18n="d1">Protons, neutrons, electrons and the periodic table.</p>
+      <span class="lesson-status" data-i18n="soon">Coming soon</span>
+    </div>
+    <div class="lesson-card">
+      <span class="lesson-num">02</span>
+      <h3 data-i18n="t2">Chemical Bonding</h3>
+      <p data-i18n="d2">Ionic, covalent and metallic bonds, and why they form.</p>
+      <span class="lesson-status" data-i18n="soon">Coming soon</span>
+    </div>
+    <div class="lesson-card">
+      <span class="lesson-num">03</span>
+      <h3 data-i18n="t3">Chemical Reactions</h3>
+      <p data-i18n="d3">Balancing equations and predicting reaction products.</p>
+      <span class="lesson-status" data-i18n="soon">Coming soon</span>
+    </div>
+    <div class="lesson-card">
+      <span class="lesson-num">04</span>
+      <h3 data-i18n="t4">Stoichiometry</h3>
+      <p data-i18n="d4">Moles, molar mass and quantitative reaction calculations.</p>
+      <span class="lesson-status" data-i18n="soon">Coming soon</span>
+    </div>
+    <div class="lesson-card">
+      <span class="lesson-num">05</span>
+      <h3 data-i18n="t5">Acids & Bases</h3>
+      <p data-i18n="d5">pH, neutralization and everyday acid-base chemistry.</p>
+      <span class="lesson-status" data-i18n="soon">Coming soon</span>
+    </div>
+    <div class="lesson-card">
+      <span class="lesson-num">06</span>
+      <h3 data-i18n="t6">Organic Chemistry</h3>
+      <p data-i18n="d6">Carbon compounds, functional groups and naming basics.</p>
+      <span class="lesson-status" data-i18n="soon">Coming soon</span>
+    </div>
+  </div>
+
+<script src="common.js"></script>
+<script src="chemistry.js"></script>
+</body>
+</html>

@@ -1,0 +1,269 @@
+{
+  "subject": "DTM",
+  "topic": {
+    "uz": "Ona tili va adabiyot — Majburiy — 17-guruh",
+    "ru": "Родной язык и литература — Обязательный — Группа 17"
+  },
+  "questions": [
+    {
+      "id": "ot-mj-17-01",
+      "prompt": {
+        "uz": "Nechta so'z turkumi mavjud (mustaqil+yordamchi+alohida guruhlar)?",
+        "ru": "Сколько частей речи существует в узбекском языке (самостоятельные + служебные + особые группы)?"
+      },
+      "options": {
+        "uz": [
+          "5 ta",
+          "7 ta",
+          "9 ta",
+          "12 ta"
+        ],
+        "ru": [
+          "5",
+          "7",
+          "9",
+          "12"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Ona tilida so'zlar 9 ta turkumga bo'linadi: ot, sifat, son, olmosh, fe'l, ravish, taqlid, modal so'z, undov, yordamchi so'zlar kabi guruhlarga ajratiladi.",
+        "ru": "В узбекском языке слова делятся на 9 частей речи: существительное, прилагательное, числительное, местоимение, глагол, наречие и другие группы."
+      }
+    },
+    {
+      "id": "ot-mj-17-02",
+      "prompt": {
+        "uz": "'Kitob' so'zi qaysi so'z turkumiga kiradi?",
+        "ru": "К какой части речи относится слово 'kitob' (книга)?"
+      },
+      "options": {
+        "uz": [
+          "Ravish",
+          "Ot",
+          "Fe'l",
+          "Sifat"
+        ],
+        "ru": [
+          "Наречие",
+          "Существительное",
+          "Глагол",
+          "Прилагательное"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "'Kitob' predmet nomini bildiradi, shuning uchun ot turkumiga kiradi.",
+        "ru": "'Kitob' обозначает предмет, поэтому относится к существительным."
+      }
+    },
+    {
+      "id": "ot-mj-17-03",
+      "prompt": {
+        "uz": "'Alisher Navoiy' kim bo'lgan?",
+        "ru": "Кем был Алишер Навои?"
+      },
+      "options": {
+        "uz": [
+          "Rassom",
+          "Shoir va mutafakkir",
+          "Harbiy sarkarda",
+          "Me'mor"
+        ],
+        "ru": [
+          "Художник",
+          "Поэт и мыслитель",
+          "Военачальник",
+          "Архитектор"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Alisher Navoiy o'zbek adabiyotining buyuk shoiri va mutafakkiri bo'lgan.",
+        "ru": "Алишер Навои — великий узбекский поэт и мыслитель."
+      }
+    },
+    {
+      "id": "ot-mj-17-04",
+      "prompt": {
+        "uz": "'O'tkan kunlar' romani muallifi kim?",
+        "ru": "Кто автор романа 'O'tkan kunlar' (Минувшие дни)?"
+      },
+      "options": {
+        "uz": [
+          "Hamza",
+          "Cho'lpon",
+          "Oybek",
+          "Abdulla Qodiriy"
+        ],
+        "ru": [
+          "Хамза",
+          "Чулпан",
+          "Айбек",
+          "Абдулла Кадыри"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "'O'tkan kunlar' — Abdulla Qodiriy tomonidan yozilgan birinchi o'zbek romani.",
+        "ru": "'O'tkan kunlar' — первый узбекский роман, написанный Абдуллой Кадыри."
+      }
+    },
+    {
+      "id": "ot-mj-17-05",
+      "prompt": {
+        "uz": "Gapda kesim qaysi bo'lak hisoblanadi?",
+        "ru": "Каким членом предложения является сказуемое?"
+      },
+      "options": {
+        "uz": [
+          "Kirish so'z",
+          "Bosh bo'lak",
+          "Undalma",
+          "Ikkinchi darajali bo'lak"
+        ],
+        "ru": [
+          "Вводное слово",
+          "Главный член",
+          "Обращение",
+          "Второстепенный член"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Ega va kesim gapning bosh bo'laklari hisoblanadi.",
+        "ru": "Подлежащее и сказуемое являются главными членами предложения."
+      }
+    },
+    {
+      "id": "ot-mj-17-06",
+      "prompt": {
+        "uz": "'Yugurdi' so'zi qaysi zamonda?",
+        "ru": "В каком времени стоит слово 'yugurdi' (бежал)?"
+      },
+      "options": {
+        "uz": [
+          "O'tgan zamon",
+          "Buyruq mayli",
+          "Hozirgi zamon",
+          "Kelasi zamon"
+        ],
+        "ru": [
+          "Прошедшее время",
+          "Повелительное наклонение",
+          "Настоящее время",
+          "Будущее время"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "'-di' qo'shimchasi fe'lning o'tgan zamonini bildiradi.",
+        "ru": "Суффикс '-di' указывает на прошедшее время глагола."
+      }
+    },
+    {
+      "id": "ot-mj-17-07",
+      "prompt": {
+        "uz": "Ko'plik qo'shimchasi qaysi?",
+        "ru": "Какой суффикс образует множественное число?"
+      },
+      "options": {
+        "uz": [
+          "-lar",
+          "-ning",
+          "-ga",
+          "-dan"
+        ],
+        "ru": [
+          "-lar",
+          "-ning",
+          "-ga",
+          "-dan"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "'-lar' qo'shimchasi otlarga qo'shilib ko'plikni bildiradi (kitob → kitoblar).",
+        "ru": "Суффикс '-lar' присоединяется к существительным для образования множественного числа."
+      }
+    },
+    {
+      "id": "ot-mj-17-08",
+      "prompt": {
+        "uz": "Sinonim so'zlar deganda nima tushuniladi?",
+        "ru": "Что понимается под синонимами?"
+      },
+      "options": {
+        "uz": [
+          "Omonim so'zlar",
+          "Qarama-qarshi ma'noli so'zlar",
+          "Ko'p ma'noli so'zlar",
+          "Ma'nodosh so'zlar"
+        ],
+        "ru": [
+          "Омонимы",
+          "Слова с противоположным значением",
+          "Многозначные слова",
+          "Слова, близкие по значению"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Sinonimlar — ma'nosi bir-biriga yaqin yoki bir xil bo'lgan so'zlar (masalan: chiroyli — go'zal).",
+        "ru": "Синонимы — слова, близкие или одинаковые по значению (например: chiroyli — go'zal)."
+      }
+    },
+    {
+      "id": "ot-mj-17-09",
+      "prompt": {
+        "uz": "'Katta' so'zining antonimi (qarama-qarshi ma'nolisi) qaysi?",
+        "ru": "Какой антоним у слова 'katta' (большой)?"
+      },
+      "options": {
+        "uz": [
+          "Baland",
+          "Keng",
+          "Kichik",
+          "Uzun"
+        ],
+        "ru": [
+          "Высокий",
+          "Широкий",
+          "Маленький",
+          "Длинный"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "'Katta' so'zining antonimi — 'kichik'.",
+        "ru": "Антоним слова 'katta' (большой) — 'kichik' (маленький)."
+      }
+    },
+    {
+      "id": "ot-mj-17-10",
+      "prompt": {
+        "uz": "Gap oxirida odatda qanday belgi qo'yiladi?",
+        "ru": "Какой знак обычно ставится в конце повествовательного предложения?"
+      },
+      "options": {
+        "uz": [
+          "Vergul",
+          "Nuqta",
+          "Tire",
+          "Ikki nuqta"
+        ],
+        "ru": [
+          "Запятая",
+          "Точка",
+          "Тире",
+          "Двоеточие"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Darak gaplar odatda nuqta bilan tugaydi.",
+        "ru": "Повествовательные предложения обычно заканчиваются точкой."
+      }
+    }
+  ]
+}

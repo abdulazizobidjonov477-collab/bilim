@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bilim — Learn AP, DTM & Chemistry</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+ 
+  <!-- ===== HERO / TOP BAND ===== -->
+  <header class="hero">
+    <div class="hero-topbar">
+      <div class="logo">
+        <span class="logo-mark">B</span>
+        <span class="logo-text">Bilim</span>
+      </div>
+ 
+      <div class="lang-switcher" id="langSwitcher">
+        <button class="lang-btn" id="langBtn" aria-haspopup="listbox" aria-expanded="false">
+          <svg class="globe-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="1.6"/>
+            <path d="M3 12h18M12 3c2.5 2.6 3.8 5.7 3.8 9s-1.3 6.4-3.8 9c-2.5-2.6-3.8-5.7-3.8-9s1.3-6.4 3.8-9z" stroke="currentColor" stroke-width="1.6"/>
+          </svg>
+          <span id="langCurrent">EN</span>
+          <svg class="chev" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+        </button>
+        <ul class="lang-menu" id="langMenu" role="listbox">
+          <li role="option" data-lang="en">English</li>
+          <li role="option" data-lang="uz">O'zbekcha</li>
+        </ul>
+      </div>
+    </div>
+ 
+    <div class="hero-center">
+      <h1 id="welcomeText">Welcome</h1>
+      <p id="welcomeSub">Everything you need for AP, DTM and Chemistry — in one place, for free.</p>
+      <a href="#subjects" class="hero-cta" id="ctaText">Start learning</a>
+    </div>
+ 
+    <svg class="hero-wave" viewBox="0 0 1440 80" preserveAspectRatio="none">
+      <path d="M0,32 C240,80 480,0 720,24 C960,48 1200,72 1440,32 L1440,80 L0,80 Z" fill="#FAFAF6"></path>
+    </svg>
+  </header>
+ 
+  <!-- ===== SUBJECT FOLDERS ===== -->
+  <section class="subjects" id="subjects">
+    <h2 class="section-title" id="subjectsTitle">Choose your subject</h2>
+    <div class="folder-row">
+ 
+      <a href="ap.html" class="folder folder-ap">
+        <span class="folder-tab">AP</span>
+        <div class="folder-body">
+          <div class="folder-icon">🎓</div>
+          <h3>AP</h3>
+          <p data-i18n="apDesc">Advanced Placement courses & practice exams</p>
+          <span class="folder-link" data-i18n="openText">Open folder →</span>
+        </div>
+      </a>
+ 
+      <a href="dtm.html" class="folder folder-dtm">
+        <span class="folder-tab">DTM</span>
+        <div class="folder-body">
+          <div class="folder-icon">📝</div>
+          <h3>DTM</h3>
+          <p data-i18n="dtmDesc">National test prep with real past papers</p>
+          <span class="folder-link" data-i18n="openText">Open folder →</span>
+        </div>
+      </a>
+ 
+      <a href="chemistry.html" class="folder folder-chem">
+        <span class="folder-tab">Chem</span>
+        <div class="folder-body">
+          <div class="folder-icon">⚗️</div>
+          <h3 data-i18n="chemistryTitle">Chemistry</h3>
+          <p data-i18n="chemDesc">From atoms to reactions, explained simply</p>
+          <span class="folder-link" data-i18n="openText">Open folder →</span>
+        </div>
+      </a>
+ 
+    </div>
+  </section>
+ 
+  <!-- ===== ADVERTISEMENT / WHITE SECTION ===== -->
+  <section class="ads">
+    <h2 class="section-title small" id="adsTitle">Sponsored</h2>
+    <div class="ad-row">
+      <div class="ad-box">
+        <span class="ad-label" id="adLabel1">Advertisement</span>
+      </div>
+      <div class="ad-box">
+        <span class="ad-label" id="adLabel2">Advertisement</span>
+      </div>
+      <div class="ad-box">
+        <span class="ad-label" id="adLabel3">Advertisement</span>
+      </div>
+    </div>
+  </section>
+ 
+  <!-- ===== FOOTER ===== -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="logo footer-logo">
+        <span class="logo-mark">B</span>
+        <span class="logo-text">Bilim</span>
+      </div>
+      <p id="footerText">Free, high-quality education for every student.</p>
+      <p class="footer-copy">© 2026 Bilim. All rights reserved.</p>
+    </div>
+  </footer>
+ 
+<script src="script.js"></script>
+</body>
+</html>
+ 

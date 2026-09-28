@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>O'zbekiston tarixi — Bilim</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="page-dtm subject-tarix">
+
+  <div class="page-topbar">
+    <a href="index.html" class="logo">
+      <span class="logo-mark">B</span>
+      <span class="logo-text">Bilim</span>
+    </a>
+    <div class="lang-switcher" id="langSwitcher">
+      <button class="lang-btn" id="langBtn" aria-haspopup="listbox" aria-expanded="false">
+        <svg class="globe-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="1.6"/><path d="M3 12h18M12 3c2.5 2.6 3.8 5.7 3.8 9s-1.3 6.4-3.8 9c-2.5-2.6-3.8-5.7-3.8-9s1.3-6.4 3.8-9z" stroke="currentColor" stroke-width="1.6"/></svg>
+        <span id="langCurrent">UZ</span>
+        <svg class="chev" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      </button>
+      <ul class="lang-menu" id="langMenu" role="listbox">
+        <li role="option" data-lang="uz">O'zbekcha</li>
+        <li role="option" data-lang="ru">Русский</li>
+      </ul>
+    </div>
+  </div>
+
+  <p class="breadcrumb">
+    <a href="index.html" id="crumbHome">Bosh sahifa</a> /
+    <a href="dtm.html" id="crumbDtm">DTM</a> /
+    <span id="crumbSubject">O'zbekiston tarixi</span>
+  </p>
+
+  <div class="subject-hero">
+    <span class="subject-emblem">B</span>
+    <h1 id="pageTitle">O'zbekiston tarixi</h1>
+    <p id="pageSubtitle">30 tadan guruhlangan mashq to'plamlaridan birini tanlang.</p>
+  </div>
+
+  <section class="group-section">
+    <div class="group-heading">
+      <div class="group-heading-icon group-icon-mandatory">📘</div>
+      <div><h2 id="mandatoryHeading">Majburiy Fan</h2><p id="mandatorySub">30 ta guruh — har birida 10 tadan savol</p></div>
+    </div>
+    <div class="group-row" id="mandatoryRow"></div>
+  </section>
+
+  <section class="group-section">
+    <div class="group-heading">
+      <div class="group-heading-icon group-icon-specialist">🎯</div>
+      <div><h2 id="specialistHeading">Mutaxassislik Fan</h2><p id="specialistSub">30 ta guruh — har birida 30 tadan savol</p></div>
+    </div>
+    <div class="group-row" id="specialistRow"></div>
+  </section>
+
+<script src="subject-hub.js" data-subject="tarix" data-title-uz="O'zbekiston tarixi" data-title-ru="История Узбекистана" data-crumb-uz="O'zbekiston tarixi" data-crumb-ru="История Узбекистана"></script>
+</body>
+</html>

@@ -1,0 +1,269 @@
+{
+  "subject": "DTM",
+  "topic": {
+    "uz": "Majburiy Fan — 20-guruh",
+    "ru": "Обязательный предмет — Группа 20"
+  },
+  "questions": [
+    {
+      "id": "mj-20-01",
+      "prompt": {
+        "uz": "7x - 9 = -2 tenglamada x ni toping.",
+        "ru": "Найдите x: 7x - 9 = -2"
+      },
+      "options": {
+        "uz": [
+          "-1",
+          "0",
+          "1",
+          "3"
+        ],
+        "ru": [
+          "-1",
+          "0",
+          "1",
+          "3"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "7x = 7, x = 7/7 = 1.",
+        "ru": "7x = 7, x = 7/7 = 1."
+      }
+    },
+    {
+      "id": "mj-20-02",
+      "prompt": {
+        "uz": "Mahsulot narxi 1500 so'm. Unga 15% chegirma qilinsa, chegirma miqdori necha so'm bo'ladi?",
+        "ru": "Товар стоит 1500 сум. Если сделать скидку 15%, чему будет равен размер скидки в сумах?"
+      },
+      "options": {
+        "uz": [
+          "225",
+          "235",
+          "175",
+          "205"
+        ],
+        "ru": [
+          "225",
+          "235",
+          "175",
+          "205"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "1500 × 15/100 = 225 so'm.",
+        "ru": "1500 × 15/100 = 225 сум."
+      }
+    },
+    {
+      "id": "mj-20-03",
+      "prompt": {
+        "uz": "Bog'ning uzunligi 9 metr, eni 3 metr. Bog'ning yuzini toping (kv. metr).",
+        "ru": "Длина участка 9 м, ширина 3 м. Найдите площадь участка (кв. м)."
+      },
+      "options": {
+        "uz": [
+          "27",
+          "29",
+          "25",
+          "31"
+        ],
+        "ru": [
+          "27",
+          "29",
+          "25",
+          "31"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Yuza = uzunlik × eni = 9 × 3 = 27.",
+        "ru": "Площадь = длина × ширина = 9 × 3 = 27."
+      }
+    },
+    {
+      "id": "mj-20-04",
+      "prompt": {
+        "uz": "4, 8, 12, 16, ... ketma-ketlikning keyingi hadi nechaga teng?",
+        "ru": "4, 8, 12, 16, ... Какое число следующее в этой последовательности?"
+      },
+      "options": {
+        "uz": [
+          "16",
+          "22",
+          "12",
+          "20"
+        ],
+        "ru": [
+          "16",
+          "22",
+          "12",
+          "20"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Har bir had oldingisidan 4 ga katta: 16 + 4 = 20.",
+        "ru": "Каждое число больше предыдущего на 4: 16 + 4 = 20."
+      }
+    },
+    {
+      "id": "mj-20-05",
+      "prompt": {
+        "uz": "Mashina soatiga 40 km tezlik bilan 2 soat yursa, necha km masofa bosib o'tadi?",
+        "ru": "Автомобиль едет со скоростью 40 км/ч в течение 2 часов. Какое расстояние он проедет?"
+      },
+      "options": {
+        "uz": [
+          "60",
+          "120",
+          "40",
+          "80"
+        ],
+        "ru": [
+          "60",
+          "120",
+          "40",
+          "80"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Masofa = tezlik × vaqt = 40 × 2 = 80 km.",
+        "ru": "Расстояние = скорость × время = 40 × 2 = 80 км."
+      }
+    },
+    {
+      "id": "mj-20-06",
+      "prompt": {
+        "uz": "3 ta sonning yig'indisi 48 ga teng. Agar ulardan ikkitasi 6 va 27 bo'lsa, uchinchi son nechaga teng?",
+        "ru": "Сумма трёх чисел равна 48. Если два из них — 6 и 27, чему равно третье число?"
+      },
+      "options": {
+        "uz": [
+          "15",
+          "13",
+          "19",
+          "12"
+        ],
+        "ru": [
+          "15",
+          "13",
+          "19",
+          "12"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "48 - 6 - 27 = 15.",
+        "ru": "48 - 6 - 27 = 15."
+      }
+    },
+    {
+      "id": "mj-20-07",
+      "prompt": {
+        "uz": "Ahmad bankka 2,000,000 so'm qo'ydi, yillik 15% stavka bilan. 1 yildan keyin u qancha foiz (foyda) oladi?",
+        "ru": "Ахмад положил в банк 2,000,000 сум под 15% годовых. Сколько процентов (прибыли) он получит через 1 год?"
+      },
+      "options": {
+        "uz": [
+          "280000",
+          "250000",
+          "350000",
+          "300000"
+        ],
+        "ru": [
+          "280000",
+          "250000",
+          "350000",
+          "300000"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "2,000,000 × 15/100 = 300,000 so'm.",
+        "ru": "2,000,000 × 15/100 = 300,000 сум."
+      }
+    },
+    {
+      "id": "mj-20-08",
+      "prompt": {
+        "uz": "24 va 40 sonlarining eng katta umumiy bo'luvchisi (EKUB) nechaga teng?",
+        "ru": "Чему равен наибольший общий делитель (НОД) чисел 24 и 40?"
+      },
+      "options": {
+        "uz": [
+          "11",
+          "6",
+          "9",
+          "8"
+        ],
+        "ru": [
+          "11",
+          "6",
+          "9",
+          "8"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "EKUB(24, 40) = 8.",
+        "ru": "НОД(24, 40) = 8."
+      }
+    },
+    {
+      "id": "mj-20-09",
+      "prompt": {
+        "uz": "3x - 6 = -27 tenglamada x ni toping.",
+        "ru": "Найдите x: 3x - 6 = -27"
+      },
+      "options": {
+        "uz": [
+          "-7",
+          "-10",
+          "-6",
+          "-9"
+        ],
+        "ru": [
+          "-7",
+          "-10",
+          "-6",
+          "-9"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "3x = -21, x = -21/3 = -7.",
+        "ru": "3x = -21, x = -21/3 = -7."
+      }
+    },
+    {
+      "id": "mj-20-10",
+      "prompt": {
+        "uz": "Mahsulot narxi 2000 so'm. Unga 30% chegirma qilinsa, chegirma miqdori necha so'm bo'ladi?",
+        "ru": "Товар стоит 2000 сум. Если сделать скидку 30%, чему будет равен размер скидки в сумах?"
+      },
+      "options": {
+        "uz": [
+          "580",
+          "650",
+          "620",
+          "600"
+        ],
+        "ru": [
+          "580",
+          "650",
+          "620",
+          "600"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "2000 × 30/100 = 600 so'm.",
+        "ru": "2000 × 30/100 = 600 сум."
+      }
+    }
+  ]
+}

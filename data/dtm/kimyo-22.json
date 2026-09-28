@@ -1,0 +1,789 @@
+{
+  "subject": "DTM",
+  "topic": {
+    "uz": "Kimyo — 22-guruh",
+    "ru": "Химия — Группа 22"
+  },
+  "questions": [
+    {
+      "id": "kim-22-01",
+      "prompt": {
+        "uz": "Suvning kimyoviy formulasi qanday?",
+        "ru": "Какова химическая формула воды?"
+      },
+      "options": {
+        "uz": [
+          "CO2",
+          "H2O",
+          "O2",
+          "NaCl"
+        ],
+        "ru": [
+          "CO2",
+          "H2O",
+          "O2",
+          "NaCl"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Suv molekulasi 2 ta vodorod va 1 ta kislorod atomidan iborat: H2O.",
+        "ru": "Молекула воды состоит из 2 атомов водорода и 1 атома кислорода: H2O."
+      }
+    },
+    {
+      "id": "kim-22-02",
+      "prompt": {
+        "uz": "Osh tuzining kimyoviy formulasi qanday?",
+        "ru": "Какова химическая формула поваренной соли?"
+      },
+      "options": {
+        "uz": [
+          "H2SO4",
+          "KCl",
+          "NaCl",
+          "CaCO3"
+        ],
+        "ru": [
+          "H2SO4",
+          "KCl",
+          "NaCl",
+          "CaCO3"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Osh tuzi natriy xlorid — NaCl.",
+        "ru": "Поваренная соль — хлорид натрия, NaCl."
+      }
+    },
+    {
+      "id": "kim-22-03",
+      "prompt": {
+        "uz": "Davriy jadvalni kim yaratgan?",
+        "ru": "Кто создал периодическую таблицу?"
+      },
+      "options": {
+        "uz": [
+          "Dmitriy Mendeleyev",
+          "Robert Boyl",
+          "Jon Dalton",
+          "Antuan Lavuaze"
+        ],
+        "ru": [
+          "Дмитрий Менделеев",
+          "Роберт Бойль",
+          "Джон Дальтон",
+          "Антуан Лавуазье"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "D.I.Mendeleyev 1869-yilda kimyoviy elementlarning davriy jadvalini yaratgan.",
+        "ru": "Д.И. Менделеев создал периодическую таблицу химических элементов в 1869 году."
+      }
+    },
+    {
+      "id": "kim-22-04",
+      "prompt": {
+        "uz": "Vodorodning atom raqami nechaga teng?",
+        "ru": "Чему равен атомный номер водорода?"
+      },
+      "options": {
+        "uz": [
+          "2",
+          "8",
+          "6",
+          "1"
+        ],
+        "ru": [
+          "2",
+          "8",
+          "6",
+          "1"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Vodorod davriy jadvalning birinchi elementi, atom raqami 1.",
+        "ru": "Водород — первый элемент периодической таблицы, атомный номер 1."
+      }
+    },
+    {
+      "id": "kim-22-05",
+      "prompt": {
+        "uz": "Kisloroddan atom raqami nechaga teng?",
+        "ru": "Чему равен атомный номер кислорода?"
+      },
+      "options": {
+        "uz": [
+          "16",
+          "8",
+          "7",
+          "6"
+        ],
+        "ru": [
+          "16",
+          "8",
+          "7",
+          "6"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Kislorod atom raqami 8 bo'lgan element.",
+        "ru": "Кислород — элемент с атомным номером 8."
+      }
+    },
+    {
+      "id": "kim-22-06",
+      "prompt": {
+        "uz": "Neytral eritmaning pH qiymati taxminan nechaga teng?",
+        "ru": "Чему приблизительно равен pH нейтрального раствора?"
+      },
+      "options": {
+        "uz": [
+          "14",
+          "0",
+          "1",
+          "7"
+        ],
+        "ru": [
+          "14",
+          "0",
+          "1",
+          "7"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Neytral eritma (masalan, toza suv) pH qiymati 7 ga teng.",
+        "ru": "pH нейтрального раствора (например, чистой воды) равен 7."
+      }
+    },
+    {
+      "id": "kim-22-07",
+      "prompt": {
+        "uz": "Kislotali eritmaning pH qiymati qanday oraliqda bo'ladi?",
+        "ru": "В каком диапазоне находится pH кислой среды?"
+      },
+      "options": {
+        "uz": [
+          "7 dan katta",
+          "Har doim 0",
+          "Har doim 14",
+          "7 dan kichik"
+        ],
+        "ru": [
+          "Больше 7",
+          "Всегда 0",
+          "Всегда 14",
+          "Меньше 7"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Kislotali muhitning pH qiymati 7 dan kichik bo'ladi.",
+        "ru": "pH кислой среды всегда меньше 7."
+      }
+    },
+    {
+      "id": "kim-22-08",
+      "prompt": {
+        "uz": "Moddaning uchta asosiy agregat holati qaysilar?",
+        "ru": "Каковы три основных агрегатных состояния вещества?"
+      },
+      "options": {
+        "uz": [
+          "Qattiq, suyuq, gaz",
+          "Issiq, sovuq, iliq",
+          "Og'ir, yengil, o'rtacha",
+          "Katta, kichik, o'rta"
+        ],
+        "ru": [
+          "Твёрдое, жидкое, газообразное",
+          "Горячее, холодное, тёплое",
+          "Тяжёлое, лёгкое, среднее",
+          "Большое, малое, среднее"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Moddalar qattiq, suyuq va gazsimon holatlarda bo'lishi mumkin.",
+        "ru": "Вещества могут находиться в твёрдом, жидком и газообразном состояниях."
+      }
+    },
+    {
+      "id": "kim-22-09",
+      "prompt": {
+        "uz": "Uglerod dioksidining kimyoviy formulasi qanday?",
+        "ru": "Какова химическая формула углекислого газа?"
+      },
+      "options": {
+        "uz": [
+          "CO",
+          "C2O",
+          "CO2",
+          "O2"
+        ],
+        "ru": [
+          "CO",
+          "C2O",
+          "CO2",
+          "O2"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Uglerod dioksid — CO2, 1 uglerod va 2 kislorod atomidan iborat.",
+        "ru": "Углекислый газ — CO2, состоит из 1 атома углерода и 2 атомов кислорода."
+      }
+    },
+    {
+      "id": "kim-22-10",
+      "prompt": {
+        "uz": "Atomning musbat zaryadli zarrachasi qanday nomlanadi?",
+        "ru": "Как называется положительно заряженная частица атома?"
+      },
+      "options": {
+        "uz": [
+          "Proton",
+          "Foton",
+          "Elektron",
+          "Neytron"
+        ],
+        "ru": [
+          "Протон",
+          "Фотон",
+          "Электрон",
+          "Нейтрон"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Proton atom yadrosida joylashgan musbat zaryadli zarracha.",
+        "ru": "Протон — положительно заряженная частица, находящаяся в ядре атома."
+      }
+    },
+    {
+      "id": "kim-22-11",
+      "prompt": {
+        "uz": "Atomning manfiy zaryadli zarrachasi qanday nomlanadi?",
+        "ru": "Как называется отрицательно заряженная частица атома?"
+      },
+      "options": {
+        "uz": [
+          "Nukleon",
+          "Neytron",
+          "Proton",
+          "Elektron"
+        ],
+        "ru": [
+          "Нуклон",
+          "Нейтрон",
+          "Протон",
+          "Электрон"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Elektron atom yadrosi atrofida aylanuvchi manfiy zaryadli zarracha.",
+        "ru": "Электрон — отрицательно заряженная частица, вращающаяся вокруг ядра атома."
+      }
+    },
+    {
+      "id": "kim-22-12",
+      "prompt": {
+        "uz": "Neytral zaryadga ega bo'lgan zarracha qaysi?",
+        "ru": "Какая частица имеет нейтральный заряд?"
+      },
+      "options": {
+        "uz": [
+          "Neytron",
+          "Ion",
+          "Elektron",
+          "Proton"
+        ],
+        "ru": [
+          "Нейтрон",
+          "Ион",
+          "Электрон",
+          "Протон"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Neytron zaryadga ega bo'lmagan, atom yadrosidagi zarracha.",
+        "ru": "Нейтрон — частица без заряда, находящаяся в ядре атома."
+      }
+    },
+    {
+      "id": "kim-22-13",
+      "prompt": {
+        "uz": "Metallarning umumiy fizik xossasi qaysi?",
+        "ru": "Какое общее физическое свойство характерно для металлов?"
+      },
+      "options": {
+        "uz": [
+          "Elektr va issiqlik o'tkazuvchanligi yuqori",
+          "Yumshoqligi",
+          "Shaffofligi yuqori",
+          "Yengil bug'lanishi"
+        ],
+        "ru": [
+          "Высокая электро- и теплопроводность",
+          "Мягкость",
+          "Высокая прозрачность",
+          "Лёгкая испаряемость"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Metallar odatda yaxshi elektr va issiqlik o'tkazgichlaridir.",
+        "ru": "Металлы обычно являются хорошими проводниками электричества и тепла."
+      }
+    },
+    {
+      "id": "kim-22-14",
+      "prompt": {
+        "uz": "Oksidlanish reaksiyasida elektron qanday harakat qiladi?",
+        "ru": "Как ведёт себя электрон в реакции окисления?"
+      },
+      "options": {
+        "uz": [
+          "Elektron qabul qilinadi",
+          "Elektron o'zgarmaydi",
+          "Proton yo'qotiladi",
+          "Elektron yo'qotiladi"
+        ],
+        "ru": [
+          "Электрон принимается",
+          "Электрон не меняется",
+          "Протон теряется",
+          "Электрон теряется"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Oksidlanishda modda elektron yo'qotadi, qaytarilishda esa elektron qabul qiladi.",
+        "ru": "При окислении вещество теряет электрон, а при восстановлении принимает его."
+      }
+    },
+    {
+      "id": "kim-22-15",
+      "prompt": {
+        "uz": "Ammiakning kimyoviy formulasi qanday?",
+        "ru": "Какова химическая формула аммиака?"
+      },
+      "options": {
+        "uz": [
+          "N2O",
+          "NH4",
+          "NH3",
+          "NO2"
+        ],
+        "ru": [
+          "N2O",
+          "NH4",
+          "NH3",
+          "NO2"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Ammiak — NH3, 1 azot va 3 vodorod atomidan iborat.",
+        "ru": "Аммиак — NH3, состоит из 1 атома азота и 3 атомов водорода."
+      }
+    },
+    {
+      "id": "kim-22-16",
+      "prompt": {
+        "uz": "Metan gazining kimyoviy formulasi qanday?",
+        "ru": "Какова химическая формула метана?"
+      },
+      "options": {
+        "uz": [
+          "CH4",
+          "C2H4",
+          "C2H6",
+          "CO2"
+        ],
+        "ru": [
+          "CH4",
+          "C2H4",
+          "C2H6",
+          "CO2"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Metan — eng oddiy uglevodorod, formulasi CH4.",
+        "ru": "Метан — простейший углеводород с формулой CH4."
+      }
+    },
+    {
+      "id": "kim-22-17",
+      "prompt": {
+        "uz": "Davriy jadvalda gorizontal qatorlar qanday nomlanadi?",
+        "ru": "Как называются горизонтальные ряды в периодической таблице?"
+      },
+      "options": {
+        "uz": [
+          "Seriyalar",
+          "Guruhlar",
+          "Davrlar",
+          "Bloklar"
+        ],
+        "ru": [
+          "Серии",
+          "Группы",
+          "Периоды",
+          "Блоки"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Davriy jadvaldagi gorizontal qatorlar davrlar deb ataladi.",
+        "ru": "Горизонтальные ряды в периодической таблице называются периодами."
+      }
+    },
+    {
+      "id": "kim-22-18",
+      "prompt": {
+        "uz": "Davriy jadvalda vertikal ustunlar qanday nomlanadi?",
+        "ru": "Как называются вертикальные столбцы в периодической таблице?"
+      },
+      "options": {
+        "uz": [
+          "Davrlar",
+          "Guruhlar",
+          "Zanjirlar",
+          "Bloklar"
+        ],
+        "ru": [
+          "Периоды",
+          "Группы",
+          "Цепи",
+          "Блоки"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Davriy jadvaldagi vertikal ustunlar guruhlar deb ataladi.",
+        "ru": "Вертикальные столбцы в периодической таблице называются группами."
+      }
+    },
+    {
+      "id": "kim-22-19",
+      "prompt": {
+        "uz": "Oltingugurt kislotasining kimyoviy formulasi qanday?",
+        "ru": "Какова химическая формула серной кислоты?"
+      },
+      "options": {
+        "uz": [
+          "HCl",
+          "H2SO4",
+          "H3PO4",
+          "HNO3"
+        ],
+        "ru": [
+          "HCl",
+          "H2SO4",
+          "H3PO4",
+          "HNO3"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Oltingugurt kislotasi — H2SO4, kuchli kislotalardan biri.",
+        "ru": "Серная кислота — H2SO4, одна из сильных кислот."
+      }
+    },
+    {
+      "id": "kim-22-20",
+      "prompt": {
+        "uz": "Alkogol (etanol) ning kimyoviy formulasi qanday?",
+        "ru": "Какова химическая формула этанола (спирта)?"
+      },
+      "options": {
+        "uz": [
+          "C2H5OH",
+          "CH3OH",
+          "C6H12O6",
+          "CH4"
+        ],
+        "ru": [
+          "C2H5OH",
+          "CH3OH",
+          "C6H12O6",
+          "CH4"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Etil spirti (etanol) formulasi — C2H5OH.",
+        "ru": "Формула этилового спирта (этанола) — C2H5OH."
+      }
+    },
+    {
+      "id": "kim-22-21",
+      "prompt": {
+        "uz": "Glyukozaning kimyoviy formulasi qanday?",
+        "ru": "Какова химическая формула глюкозы?"
+      },
+      "options": {
+        "uz": [
+          "CH4",
+          "C6H12O6",
+          "C2H5OH",
+          "CO2"
+        ],
+        "ru": [
+          "CH4",
+          "C6H12O6",
+          "C2H5OH",
+          "CO2"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Glyukoza — C6H12O6 formulali qand moddasi.",
+        "ru": "Глюкоза — сахарное вещество с формулой C6H12O6."
+      }
+    },
+    {
+      "id": "kim-22-22",
+      "prompt": {
+        "uz": "Ozon molekulasi nechta kislorod atomidan iborat?",
+        "ru": "Из скольких атомов кислорода состоит молекула озона?"
+      },
+      "options": {
+        "uz": [
+          "3 ta",
+          "4 ta",
+          "1 ta",
+          "2 ta"
+        ],
+        "ru": [
+          "3",
+          "4",
+          "1",
+          "2"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Ozon molekulasi (O3) 3 ta kislorod atomidan tashkil topgan.",
+        "ru": "Молекула озона (O3) состоит из 3 атомов кислорода."
+      }
+    },
+    {
+      "id": "kim-22-23",
+      "prompt": {
+        "uz": "Eng yengil kimyoviy element qaysi?",
+        "ru": "Какой химический элемент самый лёгкий?"
+      },
+      "options": {
+        "uz": [
+          "Kislorod",
+          "Uglerod",
+          "Geliy",
+          "Vodorod"
+        ],
+        "ru": [
+          "Кислород",
+          "Углерод",
+          "Гелий",
+          "Водород"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Vodorod davriy jadvaldagi eng yengil va eng oddiy element.",
+        "ru": "Водород — самый лёгкий и простой элемент в периодической таблице."
+      }
+    },
+    {
+      "id": "kim-22-24",
+      "prompt": {
+        "uz": "Xlorid kislotasining formulasi qanday?",
+        "ru": "Какова формула соляной кислоты?"
+      },
+      "options": {
+        "uz": [
+          "H2SO4",
+          "H2CO3",
+          "HCl",
+          "HNO3"
+        ],
+        "ru": [
+          "H2SO4",
+          "H2CO3",
+          "HCl",
+          "HNO3"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Xlorid (tuz) kislotasi — HCl.",
+        "ru": "Соляная кислота — HCl."
+      }
+    },
+    {
+      "id": "kim-22-25",
+      "prompt": {
+        "uz": "Kimyoviy reaksiyada modda massasi qanday qonunga bo'ysunadi?",
+        "ru": "Какому закону подчиняется масса вещества в химической реакции?"
+      },
+      "options": {
+        "uz": [
+          "Massaning saqlanish qonuni",
+          "Nyutonning ikkinchi qonuni",
+          "Arximed qonuni",
+          "Om qonuni"
+        ],
+        "ru": [
+          "Закон сохранения массы",
+          "Второй закон Ньютона",
+          "Закон Архимеда",
+          "Закон Ома"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Kimyoviy reaksiyada moddalar massasi yo'qolmaydi, faqat shaklini o'zgartiradi (massaning saqlanish qonuni).",
+        "ru": "В химической реакции масса веществ не исчезает, а лишь меняет форму (закон сохранения массы)."
+      }
+    },
+    {
+      "id": "kim-22-26",
+      "prompt": {
+        "uz": "Vodorod peroksidining kimyoviy formulasi qanday?",
+        "ru": "Какова химическая формула пероксида водорода?"
+      },
+      "options": {
+        "uz": [
+          "H3O2",
+          "H2O",
+          "HO2",
+          "H2O2"
+        ],
+        "ru": [
+          "H3O2",
+          "H2O",
+          "HO2",
+          "H2O2"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Vodorod peroksid — H2O2, dezinfeksiya vositasi sifatida ishlatiladi.",
+        "ru": "Пероксид водорода — H2O2, используется как дезинфицирующее средство."
+      }
+    },
+    {
+      "id": "kim-22-27",
+      "prompt": {
+        "uz": "Kaliy permanganatining rangi qanday?",
+        "ru": "Какого цвета перманганат калия?"
+      },
+      "options": {
+        "uz": [
+          "Yashil",
+          "Binafsha/to'q qizil",
+          "Sariq",
+          "Ko'k"
+        ],
+        "ru": [
+          "Зелёный",
+          "Фиолетовый/тёмно-красный",
+          "Жёлтый",
+          "Синий"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Kaliy permanganat (KMnO4) kristallari to'q binafsha rangda bo'ladi.",
+        "ru": "Кристаллы перманганата калия (KMnO4) имеют тёмно-фиолетовый цвет."
+      }
+    },
+    {
+      "id": "kim-22-28",
+      "prompt": {
+        "uz": "Temirning kimyoviy belgisi qanday?",
+        "ru": "Каково химическое обозначение железа?"
+      },
+      "options": {
+        "uz": [
+          "Fe",
+          "Ti",
+          "Fr",
+          "Fn"
+        ],
+        "ru": [
+          "Fe",
+          "Ti",
+          "Fr",
+          "Fn"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Temir elementining lotincha nomi Ferrum bo'lib, belgisi Fe.",
+        "ru": "Латинское название железа — Ferrum, обозначение Fe."
+      }
+    },
+    {
+      "id": "kim-22-29",
+      "prompt": {
+        "uz": "Oltinning kimyoviy belgisi qanday?",
+        "ru": "Каково химическое обозначение золота?"
+      },
+      "options": {
+        "uz": [
+          "Au",
+          "Ag",
+          "Al",
+          "Ar"
+        ],
+        "ru": [
+          "Au",
+          "Ag",
+          "Al",
+          "Ar"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Oltin elementining lotincha nomi Aurum bo'lib, belgisi Au.",
+        "ru": "Латинское название золота — Aurum, обозначение Au."
+      }
+    },
+    {
+      "id": "kim-22-30",
+      "prompt": {
+        "uz": "Kumushning kimyoviy belgisi qanday?",
+        "ru": "Каково химическое обозначение серебра?"
+      },
+      "options": {
+        "uz": [
+          "Al",
+          "As",
+          "Au",
+          "Ag"
+        ],
+        "ru": [
+          "Al",
+          "As",
+          "Au",
+          "Ag"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Kumush elementining lotincha nomi Argentum bo'lib, belgisi Ag.",
+        "ru": "Латинское название серебра — Argentum, обозначение Ag."
+      }
+    }
+  ]
+}

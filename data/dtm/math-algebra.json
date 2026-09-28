@@ -1,0 +1,176 @@
+{
+  "subject": "DTM",
+  "topic": "Mathematics — Algebra",
+  "questions": [
+    {
+      "id": "math-alg-001",
+      "prompt": {
+        "en": "Solve for x: 2x + 6 = 14",
+        "uz": "x ni toping: 2x + 6 = 14",
+        "ru": "Найдите x: 2x + 6 = 14"
+      },
+      "options": {
+        "en": [
+          "x = 4",
+          "x = 6",
+          "x = 8",
+          "x = 10"
+        ],
+        "uz": [
+          "x = 4",
+          "x = 6",
+          "x = 8",
+          "x = 10"
+        ],
+        "ru": [
+          "x = 4",
+          "x = 6",
+          "x = 8",
+          "x = 10"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "en": "Subtract 6 from both sides: 2x = 8, then divide by 2: x = 4.",
+        "uz": "Har ikki tomondan 6 ni ayiring: 2x = 8, so'ng 2 ga bo'ling: x = 4.",
+        "ru": "Вычтите 6 из обеих частей: 2x = 8, затем разделите на 2: x = 4."
+      }
+    },
+    {
+      "id": "math-alg-002",
+      "prompt": {
+        "en": "Simplify: 3(x + 4) - 2x",
+        "uz": "Soddalashtiring: 3(x + 4) - 2x",
+        "ru": "Упростите выражение: 3(x + 4) - 2x"
+      },
+      "options": {
+        "en": [
+          "x + 12",
+          "x + 4",
+          "5x + 12",
+          "x + 7"
+        ],
+        "uz": [
+          "x + 12",
+          "x + 4",
+          "5x + 12",
+          "x + 7"
+        ],
+        "ru": [
+          "x + 12",
+          "x + 4",
+          "5x + 12",
+          "x + 7"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "en": "3(x+4) = 3x + 12. Then 3x + 12 - 2x = x + 12.",
+        "uz": "3(x+4) = 3x + 12. Keyin 3x + 12 - 2x = x + 12.",
+        "ru": "3(x+4) = 3x + 12. Затем 3x + 12 - 2x = x + 12."
+      }
+    },
+    {
+      "id": "math-alg-003",
+      "prompt": {
+        "en": "If x² = 49, what are the possible values of x?",
+        "uz": "Agar x² = 49 bo'lsa, x ning mumkin bo'lgan qiymatlari?",
+        "ru": "Если x² = 49, какие значения может принимать x?"
+      },
+      "options": {
+        "en": [
+          "7 only",
+          "-7 only",
+          "7 or -7",
+          "49"
+        ],
+        "uz": [
+          "Faqat 7",
+          "Faqat -7",
+          "7 yoki -7",
+          "49"
+        ],
+        "ru": [
+          "Только 7",
+          "Только -7",
+          "7 или -7",
+          "49"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "en": "Both 7² and (-7)² equal 49, so x = 7 or x = -7.",
+        "uz": "Ham 7², ham (-7)² 49 ga teng, shuning uchun x = 7 yoki x = -7.",
+        "ru": "И 7², и (-7)² равны 49, поэтому x = 7 или x = -7."
+      }
+    },
+    {
+      "id": "math-alg-004",
+      "prompt": {
+        "en": "Solve: x/3 - 2 = 5",
+        "uz": "Yeching: x/3 - 2 = 5",
+        "ru": "Решите: x/3 - 2 = 5"
+      },
+      "options": {
+        "en": [
+          "x = 21",
+          "x = 15",
+          "x = 9",
+          "x = 7"
+        ],
+        "uz": [
+          "x = 21",
+          "x = 15",
+          "x = 9",
+          "x = 7"
+        ],
+        "ru": [
+          "x = 21",
+          "x = 15",
+          "x = 9",
+          "x = 7"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "en": "Add 2 to both sides: x/3 = 7. Multiply by 3: x = 21.",
+        "uz": "Har ikki tomonga 2 qo'shing: x/3 = 7. 3 ga ko'paytiring: x = 21.",
+        "ru": "Прибавьте 2 к обеим частям: x/3 = 7. Умножьте на 3: x = 21."
+      }
+    },
+    {
+      "id": "math-alg-005",
+      "prompt": {
+        "en": "What is the slope of the line y = 4x - 3?",
+        "uz": "y = 4x - 3 chizig'ining burchak koeffitsienti nechaga teng?",
+        "ru": "Чему равен угловой коэффициент прямой y = 4x - 3?"
+      },
+      "options": {
+        "en": [
+          "4",
+          "-3",
+          "3",
+          "-4"
+        ],
+        "uz": [
+          "4",
+          "-3",
+          "3",
+          "-4"
+        ],
+        "ru": [
+          "4",
+          "-3",
+          "3",
+          "-4"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "en": "In y = mx + b form, m is the slope. Here m = 4.",
+        "uz": "y = mx + b ko'rinishida m burchak koeffitsienti bo'ladi. Bu yerda m = 4.",
+        "ru": "В форме y = mx + b, m — угловой коэффициент. Здесь m = 4."
+      }
+    }
+  ]
+}

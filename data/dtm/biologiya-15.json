@@ -1,0 +1,789 @@
+{
+  "subject": "DTM",
+  "topic": {
+    "uz": "Biologiya — 15-guruh",
+    "ru": "Биология — Группа 15"
+  },
+  "questions": [
+    {
+      "id": "bio-15-01",
+      "prompt": {
+        "uz": "Hujayraning nazorat markazi (irsiy ma'lumot saqlanadigan qismi) qanday nomlanadi?",
+        "ru": "Как называется управляющий центр клетки (где хранится наследственная информация)?"
+      },
+      "options": {
+        "uz": [
+          "Mitoxondriya",
+          "Yadro",
+          "Golji kompleksi",
+          "Ribosoma"
+        ],
+        "ru": [
+          "Митохондрия",
+          "Ядро",
+          "Аппарат Гольджи",
+          "Рибосома"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Yadro hujayraning irsiy ma'lumotini (DNK) saqlaydi va uning faoliyatini boshqaradi.",
+        "ru": "Ядро хранит наследственную информацию клетки (ДНК) и управляет её деятельностью."
+      }
+    },
+    {
+      "id": "bio-15-02",
+      "prompt": {
+        "uz": "Hujayraning 'energiya stansiyasi' deb ataladigan organoidi qaysi?",
+        "ru": "Какой органоид клетки называют 'энергетической станцией'?"
+      },
+      "options": {
+        "uz": [
+          "Mitoxondriya",
+          "Yadro",
+          "Ribosoma",
+          "Vakuola"
+        ],
+        "ru": [
+          "Митохондрия",
+          "Ядро",
+          "Рибосома",
+          "Вакуоль"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Mitoxondriya hujayra uchun energiya (ATP) ishlab chiqaradi.",
+        "ru": "Митохондрия вырабатывает энергию (АТФ) для клетки."
+      }
+    },
+    {
+      "id": "bio-15-03",
+      "prompt": {
+        "uz": "Fotosintez jarayoni qayerda sodir bo'ladi?",
+        "ru": "Где происходит процесс фотосинтеза?"
+      },
+      "options": {
+        "uz": [
+          "Ribosomada",
+          "Mitoxondriyada",
+          "Yadroda",
+          "Xloroplastda"
+        ],
+        "ru": [
+          "В рибосоме",
+          "В митохондрии",
+          "В ядре",
+          "В хлоропласте"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Fotosintez o'simlik hujayralaridagi xloroplastlarda amalga oshadi.",
+        "ru": "Фотосинтез происходит в хлоропластах растительных клеток."
+      }
+    },
+    {
+      "id": "bio-15-04",
+      "prompt": {
+        "uz": "Fotosintez natijasida qaysi gaz ajralib chiqadi?",
+        "ru": "Какой газ выделяется в результате фотосинтеза?"
+      },
+      "options": {
+        "uz": [
+          "Kislorod",
+          "Vodorod",
+          "Azot",
+          "Karbonat angidrid"
+        ],
+        "ru": [
+          "Кислород",
+          "Водород",
+          "Азот",
+          "Углекислый газ"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Fotosintez jarayonida o'simliklar kislorod ajratib chiqaradi.",
+        "ru": "В процессе фотосинтеза растения выделяют кислород."
+      }
+    },
+    {
+      "id": "bio-15-05",
+      "prompt": {
+        "uz": "DNK molekulasi qanday shaklga ega?",
+        "ru": "Какую форму имеет молекула ДНК?"
+      },
+      "options": {
+        "uz": [
+          "Qo'sh spiral",
+          "Uch burchak",
+          "Kub shakl",
+          "Yassi tekislik"
+        ],
+        "ru": [
+          "Двойная спираль",
+          "Треугольник",
+          "Форма куба",
+          "Плоская плоскость"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "DNK molekulasi ikki zanjirli qo'sh spiral shaklga ega.",
+        "ru": "Молекула ДНК имеет форму двойной спирали из двух цепей."
+      }
+    },
+    {
+      "id": "bio-15-06",
+      "prompt": {
+        "uz": "Inson qon aylanish tizimining markaziy a'zosi qaysi?",
+        "ru": "Какой орган является центральным в кровеносной системе человека?"
+      },
+      "options": {
+        "uz": [
+          "Jigar",
+          "Yurak",
+          "Buyrak",
+          "O'pka"
+        ],
+        "ru": [
+          "Печень",
+          "Сердце",
+          "Почки",
+          "Лёгкие"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Yurak qonni tomirlar orqali butun organizmga haydaydi.",
+        "ru": "Сердце перекачивает кровь по сосудам ко всему организму."
+      }
+    },
+    {
+      "id": "bio-15-07",
+      "prompt": {
+        "uz": "Nafas olish jarayonida qaysi gaz organizmga so'riladi?",
+        "ru": "Какой газ поглощается организмом при дыхании?"
+      },
+      "options": {
+        "uz": [
+          "Kislorod",
+          "Karbonat angidrid",
+          "Metan",
+          "Azot"
+        ],
+        "ru": [
+          "Кислород",
+          "Углекислый газ",
+          "Метан",
+          "Азот"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Nafas olishda o'pka orqali kislorod qonga so'riladi.",
+        "ru": "При дыхании через лёгкие кислород всасывается в кровь."
+      }
+    },
+    {
+      "id": "bio-15-08",
+      "prompt": {
+        "uz": "Odam skeletida taxminan nechta suyak mavjud?",
+        "ru": "Сколько примерно костей в скелете взрослого человека?"
+      },
+      "options": {
+        "uz": [
+          "100 ta",
+          "206 ta",
+          "300 ta",
+          "150 ta"
+        ],
+        "ru": [
+          "100",
+          "206",
+          "300",
+          "150"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Kattalar odam skeletida taxminan 206 ta suyak mavjud.",
+        "ru": "В скелете взрослого человека примерно 206 костей."
+      }
+    },
+    {
+      "id": "bio-15-09",
+      "prompt": {
+        "uz": "Fermentlar (enzimlar) organizmda qanday vazifani bajaradi?",
+        "ru": "Какую функцию выполняют ферменты в организме?"
+      },
+      "options": {
+        "uz": [
+          "Suyaklarni mustahkamlaydi",
+          "Kimyoviy reaksiyalarni tezlashtiradi",
+          "Ko'rish qobiliyatini beradi",
+          "Harakatni ta'minlaydi"
+        ],
+        "ru": [
+          "Укрепляют кости",
+          "Ускоряют химические реакции",
+          "Дают способность видеть",
+          "Обеспечивают движение"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Fermentlar biologik katalizator bo'lib, organizmdagi kimyoviy reaksiyalarni tezlashtiradi.",
+        "ru": "Ферменты — биологические катализаторы, ускоряющие химические реакции в организме."
+      }
+    },
+    {
+      "id": "bio-15-10",
+      "prompt": {
+        "uz": "Genetik ma'lumotni avlodga o'tkazuvchi hujayralar qanday nomlanadi?",
+        "ru": "Как называются клетки, передающие генетическую информацию потомству?"
+      },
+      "options": {
+        "uz": [
+          "Qon hujayralari",
+          "Nerv hujayralari",
+          "Jinsiy hujayralar (gametalar)",
+          "Mushak hujayralari"
+        ],
+        "ru": [
+          "Клетки крови",
+          "Нервные клетки",
+          "Половые клетки (гаметы)",
+          "Мышечные клетки"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Jinsiy hujayralar (tuxum va spermatozoid) genetik ma'lumotni avlodga o'tkazadi.",
+        "ru": "Половые клетки (яйцеклетка и сперматозоид) передают генетическую информацию потомству."
+      }
+    },
+    {
+      "id": "bio-15-11",
+      "prompt": {
+        "uz": "Odam tanasidagi eng katta a'zo qaysi?",
+        "ru": "Какой самый крупный орган в теле человека?"
+      },
+      "options": {
+        "uz": [
+          "Yurak",
+          "O'pka",
+          "Teri",
+          "Jigar"
+        ],
+        "ru": [
+          "Сердце",
+          "Лёгкие",
+          "Кожа",
+          "Печень"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Teri — odam tanasidagi eng katta a'zo hisoblanadi.",
+        "ru": "Кожа считается самым крупным органом человеческого тела."
+      }
+    },
+    {
+      "id": "bio-15-12",
+      "prompt": {
+        "uz": "Hujayra devoriga ega bo'lgan organizmlar qaysilar?",
+        "ru": "У каких организмов есть клеточная стенка?"
+      },
+      "options": {
+        "uz": [
+          "Hayvonlar",
+          "O'simliklar",
+          "Odamlar",
+          "Baliqlar"
+        ],
+        "ru": [
+          "Животные",
+          "Растения",
+          "Люди",
+          "Рыбы"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "O'simlik hujayralari sellyulozadan iborat hujayra devoriga ega, hayvon hujayralarida bu yo'q.",
+        "ru": "Клетки растений имеют клеточную стенку из целлюлозы, у животных клеток её нет."
+      }
+    },
+    {
+      "id": "bio-15-13",
+      "prompt": {
+        "uz": "Odam organizmida ovqat hazm qilish jarayoni qaysi a'zodan boshlanadi?",
+        "ru": "С какого органа начинается процесс пищеварения в организме человека?"
+      },
+      "options": {
+        "uz": [
+          "Yo'g'on ichak",
+          "Og'iz bo'shlig'i",
+          "Me'da",
+          "Ingichka ichak"
+        ],
+        "ru": [
+          "Толстый кишечник",
+          "Ротовая полость",
+          "Желудок",
+          "Тонкий кишечник"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Ovqat hazm qilish og'iz bo'shlig'ida mexanik va kimyoviy qayta ishlash bilan boshlanadi.",
+        "ru": "Пищеварение начинается в ротовой полости с механической и химической обработки пищи."
+      }
+    },
+    {
+      "id": "bio-15-14",
+      "prompt": {
+        "uz": "Qaysi qon guruhi 'universal donor' deb ataladi?",
+        "ru": "Какая группа крови называется 'универсальным донором'?"
+      },
+      "options": {
+        "uz": [
+          "II (A) qon guruhi",
+          "IV (AB) qon guruhi",
+          "III (B) qon guruhi",
+          "I (0) qon guruhi"
+        ],
+        "ru": [
+          "II (A) группа крови",
+          "IV (AB) группа крови",
+          "III (B) группа крови",
+          "I (0) группа крови"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "I (0) qon guruhi barcha boshqa guruhlarga quyilishi mumkinligi uchun universal donor deb ataladi.",
+        "ru": "I (0) группа крови называется универсальным донором, так как может переливаться людям с любой другой группой."
+      }
+    },
+    {
+      "id": "bio-15-15",
+      "prompt": {
+        "uz": "Fotosintez uchun asosiy zarur shart nima?",
+        "ru": "Что является основным необходимым условием для фотосинтеза?"
+      },
+      "options": {
+        "uz": [
+          "Sovuq harorat",
+          "Qorong'ulik",
+          "Yuqori bosim",
+          "Yorug'lik"
+        ],
+        "ru": [
+          "Холодная температура",
+          "Темнота",
+          "Высокое давление",
+          "Свет"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Fotosintez yorug'lik energiyasi ishtirokida sodir bo'ladi.",
+        "ru": "Фотосинтез происходит при участии энергии света."
+      }
+    },
+    {
+      "id": "bio-15-16",
+      "prompt": {
+        "uz": "Tabiiy tanlanish nazariyasini kim ilgari surgan?",
+        "ru": "Кто выдвинул теорию естественного отбора?"
+      },
+      "options": {
+        "uz": [
+          "Lui Paster",
+          "Gregor Mendel",
+          "Charlz Darvin",
+          "Isaak Nyuton"
+        ],
+        "ru": [
+          "Луи Пастер",
+          "Грегор Мендель",
+          "Чарльз Дарвин",
+          "Исаак Ньютон"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Charlz Darvin tabiiy tanlanish orqali turlarning evolyutsiyasi nazariyasini yaratgan.",
+        "ru": "Чарльз Дарвин создал теорию эволюции видов путём естественного отбора."
+      }
+    },
+    {
+      "id": "bio-15-17",
+      "prompt": {
+        "uz": "Genetika faniga asos solgan olim kim?",
+        "ru": "Кто основоположник науки генетики?"
+      },
+      "options": {
+        "uz": [
+          "Lui Paster",
+          "Charlz Darvin",
+          "Robert Guk",
+          "Gregor Mendel"
+        ],
+        "ru": [
+          "Луи Пастер",
+          "Чарльз Дарвин",
+          "Роберт Гук",
+          "Грегор Мендель"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Gregor Mendel no'xat o'simliklari ustida tajribalar orqali irsiyat qonuniyatlarini kashf etgan.",
+        "ru": "Грегор Мендель открыл законы наследственности через опыты с растениями гороха."
+      }
+    },
+    {
+      "id": "bio-15-18",
+      "prompt": {
+        "uz": "Hujayrani birinchi marta kim kashf etgan (mikroskop orqali)?",
+        "ru": "Кто впервые открыл клетку (с помощью микроскопа)?"
+      },
+      "options": {
+        "uz": [
+          "Robert Guk",
+          "Gregor Mendel",
+          "Charlz Darvin",
+          "Lui Paster"
+        ],
+        "ru": [
+          "Роберт Гук",
+          "Грегор Мендель",
+          "Чарльз Дарвин",
+          "Луи Пастер"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Robert Guk 1665-yilda mikroskop yordamida hujayrani birinchi bo'lib kuzatgan va nomlagan.",
+        "ru": "Роберт Гук в 1665 году первым с помощью микроскопа наблюдал и назвал клетку."
+      }
+    },
+    {
+      "id": "bio-15-19",
+      "prompt": {
+        "uz": "Inson tanasida eng ko'p uchraydigan to'qima turi qaysi (massasi bo'yicha)?",
+        "ru": "Какой тип ткани наиболее распространён в теле человека (по массе)?"
+      },
+      "options": {
+        "uz": [
+          "Mushak to'qimasi",
+          "Nerv to'qimasi",
+          "Epiteliy to'qimasi",
+          "Suyak to'qimasi"
+        ],
+        "ru": [
+          "Мышечная ткань",
+          "Нервная ткань",
+          "Эпителиальная ткань",
+          "Костная ткань"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Mushak to'qimasi tana massasining katta qismini tashkil qiladi.",
+        "ru": "Мышечная ткань составляет значительную часть массы тела."
+      }
+    },
+    {
+      "id": "bio-15-20",
+      "prompt": {
+        "uz": "Bakteriyalar qaysi hujayra turiga kiradi?",
+        "ru": "К какому типу клеток относятся бактерии?"
+      },
+      "options": {
+        "uz": [
+          "Gibrid hujayra",
+          "Eukariot hujayra",
+          "Prokariot hujayra",
+          "Virusli hujayra"
+        ],
+        "ru": [
+          "Гибридная клетка",
+          "Эукариотическая клетка",
+          "Прокариотическая клетка",
+          "Вирусная клетка"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Bakteriyalar yadrosi bo'lmagan prokariot organizmlar hisoblanadi.",
+        "ru": "Бактерии являются прокариотическими организмами без оформленного ядра."
+      }
+    },
+    {
+      "id": "bio-15-21",
+      "prompt": {
+        "uz": "Odam yurak qancha kamerali (bo'lmali)?",
+        "ru": "Сколько камер в сердце человека?"
+      },
+      "options": {
+        "uz": [
+          "2 ta",
+          "3 ta",
+          "4 ta",
+          "6 ta"
+        ],
+        "ru": [
+          "2",
+          "3",
+          "4",
+          "6"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Odam yuragi 4 kamerali: 2 bo'lmacha va 2 qorincha.",
+        "ru": "Сердце человека четырёхкамерное: 2 предсердия и 2 желудочка."
+      }
+    },
+    {
+      "id": "bio-15-22",
+      "prompt": {
+        "uz": "Osimliklarda suv va minerallarni yuqoriga tashuvchi to'qima qaysi?",
+        "ru": "Какая ткань у растений переносит воду и минералы вверх?"
+      },
+      "options": {
+        "uz": [
+          "Epidermis",
+          "Mezofill",
+          "Floema",
+          "Ksilema"
+        ],
+        "ru": [
+          "Эпидермис",
+          "Мезофилл",
+          "Флоэма",
+          "Ксилема"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Ksilema ildizdan suv va minerallarni barglarga tashiydi.",
+        "ru": "Ксилема переносит воду и минералы от корней к листьям."
+      }
+    },
+    {
+      "id": "bio-15-23",
+      "prompt": {
+        "uz": "Odam organizmida antitela ishlab chiqaruvchi hujayralar qaysi?",
+        "ru": "Какие клетки в организме человека вырабатывают антитела?"
+      },
+      "options": {
+        "uz": [
+          "Eritrotsitlar",
+          "Trombotsitlar",
+          "Nerv hujayralari",
+          "Limfotsitlar (B-hujayralar)"
+        ],
+        "ru": [
+          "Эритроциты",
+          "Тромбоциты",
+          "Нервные клетки",
+          "Лимфоциты (B-клетки)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "B-limfotsitlar immun tizimning bir qismi bo'lib, antitelalar ishlab chiqaradi.",
+        "ru": "B-лимфоциты являются частью иммунной системы и вырабатывают антитела."
+      }
+    },
+    {
+      "id": "bio-15-24",
+      "prompt": {
+        "uz": "Mitoz bo'linish natijasida nechta hujayra hosil bo'ladi?",
+        "ru": "Сколько клеток образуется в результате митоза?"
+      },
+      "options": {
+        "uz": [
+          "2 ta (bir xil xromosomali)",
+          "1 ta",
+          "4 ta",
+          "3 ta"
+        ],
+        "ru": [
+          "2 (с одинаковым набором хромосом)",
+          "1",
+          "4",
+          "3"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Mitoz bo'linishda 1 ta ona hujayradan bir xil genetik materialli 2 ta qiz hujayra hosil bo'ladi.",
+        "ru": "При митозе из одной материнской клетки образуются 2 дочерние клетки с одинаковым генетическим материалом."
+      }
+    },
+    {
+      "id": "bio-15-25",
+      "prompt": {
+        "uz": "Meyoz bo'linish natijasida nechta hujayra hosil bo'ladi?",
+        "ru": "Сколько клеток образуется в результате мейоза?"
+      },
+      "options": {
+        "uz": [
+          "4 ta (yarim xromosomali)",
+          "2 ta",
+          "3 ta",
+          "8 ta"
+        ],
+        "ru": [
+          "4 (с половинным набором хромосом)",
+          "2",
+          "3",
+          "8"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Meyoz jinsiy hujayralar hosil bo'lishida 4 ta gaploid hujayra hosil qiladi.",
+        "ru": "Мейоз образует 4 гаплоидные клетки при формировании половых клеток."
+      }
+    },
+    {
+      "id": "bio-15-26",
+      "prompt": {
+        "uz": "Odam tanasida kislorodni tashuvchi qon hujayrasi qaysi?",
+        "ru": "Какая клетка крови переносит кислород в организме человека?"
+      },
+      "options": {
+        "uz": [
+          "Leykotsit",
+          "Limfotsit",
+          "Eritrotsit (qizil qon hujayrasi)",
+          "Trombotsit"
+        ],
+        "ru": [
+          "Лейкоцит",
+          "Лимфоцит",
+          "Эритроцит (красная кровяная клетка)",
+          "Тромбоцит"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Eritrotsitlar tarkibidagi gemoglobin kislorodni tashiydi.",
+        "ru": "Гемоглобин в эритроцитах переносит кислород."
+      }
+    },
+    {
+      "id": "bio-15-27",
+      "prompt": {
+        "uz": "Insulin gormoni qaysi a'zoda ishlab chiqariladi?",
+        "ru": "В каком органе вырабатывается гормон инсулин?"
+      },
+      "options": {
+        "uz": [
+          "Me'da osti bezi (pankreas)",
+          "Jigar",
+          "Buyrak",
+          "Qalqonsimon bez"
+        ],
+        "ru": [
+          "Поджелудочная железа",
+          "Печень",
+          "Почки",
+          "Щитовидная железа"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Insulin gormoni me'da osti bezida ishlab chiqariladi va qondagi shakar miqdorini boshqaradi.",
+        "ru": "Инсулин вырабатывается поджелудочной железой и регулирует уровень сахара в крови."
+      }
+    },
+    {
+      "id": "bio-15-28",
+      "prompt": {
+        "uz": "O'simliklarda fotosintez uchun asosiy pigment qanday nomlanadi?",
+        "ru": "Как называется основной пигмент, необходимый для фотосинтеза у растений?"
+      },
+      "options": {
+        "uz": [
+          "Keratin",
+          "Gemoglobin",
+          "Xlorofill",
+          "Melanin"
+        ],
+        "ru": [
+          "Кератин",
+          "Гемоглобин",
+          "Хлорофилл",
+          "Меланин"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Xlorofill barglarga yashil rang beradi va yorug'lik energiyasini yutadi.",
+        "ru": "Хлорофилл придаёт листьям зелёный цвет и поглощает энергию света."
+      }
+    },
+    {
+      "id": "bio-15-29",
+      "prompt": {
+        "uz": "Odam organizmida buyrakning asosiy vazifasi nima?",
+        "ru": "Какова основная функция почек в организме человека?"
+      },
+      "options": {
+        "uz": [
+          "Kislorodni tashish",
+          "Qonni pompalash",
+          "Qonni filtrlash va siydik hosil qilish",
+          "Ovqatni hazm qilish"
+        ],
+        "ru": [
+          "Перенос кислорода",
+          "Перекачивание крови",
+          "Фильтрация крови и образование мочи",
+          "Переваривание пищи"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Buyraklar qondagi chiqindi moddalarni filtrlab, siydik shaklida chiqarib tashlaydi.",
+        "ru": "Почки фильтруют отходы из крови и выводят их в виде мочи."
+      }
+    },
+    {
+      "id": "bio-15-30",
+      "prompt": {
+        "uz": "Odam nafas olish tizimida gaz almashinuvi qaysi a'zoda sodir bo'ladi?",
+        "ru": "В каком органе происходит газообмен в дыхательной системе человека?"
+      },
+      "options": {
+        "uz": [
+          "O'pcha (alveola)",
+          "Tomoq",
+          "Traxeya",
+          "Bronx"
+        ],
+        "ru": [
+          "Альвеолы",
+          "Глотка",
+          "Трахея",
+          "Бронхи"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Gaz almashinuvi (kislorod va karbonat angidrid) o'pkadagi alveolalarda sodir bo'ladi.",
+        "ru": "Газообмен (кислород и углекислый газ) происходит в альвеолах лёгких."
+      }
+    }
+  ]
+}

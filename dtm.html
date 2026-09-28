@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DTM — Bilim</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="page-dtm subject-dtm-home">
+
+  <div class="page-topbar">
+    <a href="index.html" class="logo">
+      <span class="logo-mark">B</span>
+      <span class="logo-text">Bilim</span>
+    </a>
+
+    <div class="lang-switcher" id="langSwitcher">
+      <button class="lang-btn" id="langBtn" aria-haspopup="listbox" aria-expanded="false">
+        <svg class="globe-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="1.6"/>
+          <path d="M3 12h18M12 3c2.5 2.6 3.8 5.7 3.8 9s-1.3 6.4-3.8 9c-2.5-2.6-3.8-5.7-3.8-9s1.3-6.4 3.8-9z" stroke="currentColor" stroke-width="1.6"/>
+        </svg>
+        <span id="langCurrent">UZ</span>
+        <svg class="chev" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+      </button>
+      <ul class="lang-menu" id="langMenu" role="listbox">
+        <li role="option" data-lang="uz">O'zbekcha</li>
+        <li role="option" data-lang="ru">Русский</li>
+      </ul>
+    </div>
+  </div>
+
+  <p class="breadcrumb"><a href="index.html" data-i18n="home">Bosh sahifa</a> / DTM</p>
+
+  <div class="subject-hero">
+    <span class="subject-emblem">B</span>
+    <h1 data-i18n="title">DTM tayyorgarligi</h1>
+    <p data-i18n="subtitle">Haqiqiy o'tgan yillar testlari va fanlar bo'yicha tahlil.</p>
+  </div>
+
+  <div class="lesson-grid">
+    <a href="math.html" class="lesson-card">
+      <span class="lesson-num" data-i18n="labelMain">ASOSIY FAN</span>
+      <h3 data-i18n="mathTitle">Matematika</h3>
+      <p data-i18n="mathDesc">Algebra, geometriya va o'tgan yillar DTM masalalari.</p>
+      <span class="lesson-status lesson-status-ready" data-i18n="openBtn">Bo'limni ochish →</span>
+    </a>
+    <a href="onatili.html" class="lesson-card">
+      <span class="lesson-num" data-i18n="labelMain">ASOSIY FAN</span>
+      <h3 data-i18n="nativeTitle">Ona tili va adabiyot</h3>
+      <p data-i18n="nativeDesc">Grammatika qoidalari va adabiyot savollari, to'liq tushuntirilgan.</p>
+      <span class="lesson-status lesson-status-ready" data-i18n="openBtn">Bo'limni ochish →</span>
+    </a>
+    <a href="tarix.html" class="lesson-card">
+      <span class="lesson-num" data-i18n="labelHistory">TARIX</span>
+      <h3 data-i18n="historyTitle">O'zbekiston tarixi</h3>
+      <p data-i18n="historyDesc">Muhim sanalar, shaxslar va voqealar, davrlar bo'yicha.</p>
+      <span class="lesson-status lesson-status-ready" data-i18n="openBtn">Bo'limni ochish →</span>
+    </a>
+    <a href="ingliztili.html" class="lesson-card">
+      <span class="lesson-num" data-i18n="labelLang">TIL</span>
+      <h3 data-i18n="englishTitle">Ingliz tili</h3>
+      <p data-i18n="englishDesc">Grammatika, lug'at va o'qishni tushunish mashqlari.</p>
+      <span class="lesson-status lesson-status-ready" data-i18n="openBtn">Bo'limni ochish →</span>
+    </a>
+    <a href="fizika.html" class="lesson-card">
+      <span class="lesson-num" data-i18n="labelScience">FAN</span>
+      <h3 data-i18n="physicsTitle">Fizika</h3>
+      <p data-i18n="physicsDesc">DTM formatidagi mexanika va elektr masalalari.</p>
+      <span class="lesson-status lesson-status-ready" data-i18n="openBtn">Bo'limni ochish →</span>
+    </a>
+    <a href="biologiya.html" class="lesson-card">
+      <span class="lesson-num" data-i18n="labelScience">FAN</span>
+      <h3 data-i18n="bioTitle">Biologiya</h3>
+      <p data-i18n="bioDesc">Inson anatomiyasi, genetika va ekologiya bo'yicha tayyorgarlik.</p>
+      <span class="lesson-status lesson-status-ready" data-i18n="openBtn">Bo'limni ochish →</span>
+    </a>
+    <a href="kimyo.html" class="lesson-card">
+      <span class="lesson-num" data-i18n="labelScience">FAN</span>
+      <h3 data-i18n="chemTitle">Kimyo</h3>
+      <p data-i18n="chemDesc">Elementlar, reaksiyalar va formulalar bo'yicha mashqlar.</p>
+      <span class="lesson-status lesson-status-ready" data-i18n="openBtn">Bo'limni ochish →</span>
+    </a>
+  </div>
+
+<script src="common.js"></script>
+<script src="dtm.js"></script>
+</body>
+</html>

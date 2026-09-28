@@ -1,0 +1,789 @@
+{
+  "subject": "DTM",
+  "topic": {
+    "uz": "Fizika — 26-guruh",
+    "ru": "Физика — Группа 26"
+  },
+  "questions": [
+    {
+      "id": "fz-26-01",
+      "prompt": {
+        "uz": "Tana 40 m/s tezlik bilan 2 soniya harakatlansa, necha metr masofa bosib o'tadi?",
+        "ru": "Тело движется со скоростью 40 м/с в течение 2 секунд. Какое расстояние оно пройдёт?"
+      },
+      "options": {
+        "uz": [
+          "60",
+          "90",
+          "80",
+          "110"
+        ],
+        "ru": [
+          "60",
+          "90",
+          "80",
+          "110"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Masofa = tezlik × vaqt = 40 × 2 = 80 m.",
+        "ru": "Расстояние = скорость × время = 40 × 2 = 80 м."
+      }
+    },
+    {
+      "id": "fz-26-02",
+      "prompt": {
+        "uz": "Massasi 4 kg bo'lgan jismga 3 m/s² tezlanish berish uchun qancha kuch (N) kerak? (F=ma)",
+        "ru": "Какая сила (Н) нужна, чтобы придать телу массой 4 кг ускорение 3 м/с²? (F=ma)"
+      },
+      "options": {
+        "uz": [
+          "16",
+          "18",
+          "12",
+          "6"
+        ],
+        "ru": [
+          "16",
+          "18",
+          "12",
+          "6"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "F = m × a = 4 × 3 = 12 N.",
+        "ru": "F = m × a = 4 × 3 = 12 Н."
+      }
+    },
+    {
+      "id": "fz-26-03",
+      "prompt": {
+        "uz": "Zanjirdagi tok kuchi 2 A, qarshilik 6 Om bo'lsa, kuchlanish (V) nechaga teng? (Om qonuni: V=IR)",
+        "ru": "Сила тока в цепи 2 А, сопротивление 6 Ом. Чему равно напряжение (В)? (Закон Ома: V=IR)"
+      },
+      "options": {
+        "uz": [
+          "18",
+          "10",
+          "12",
+          "14"
+        ],
+        "ru": [
+          "18",
+          "10",
+          "12",
+          "14"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "V = I × R = 2 × 6 = 12 V.",
+        "ru": "V = I × R = 2 × 6 = 12 В."
+      }
+    },
+    {
+      "id": "fz-26-04",
+      "prompt": {
+        "uz": "Massasi 500 g, hajmi 2 sm³ bo'lgan jismning zichligini toping (g/sm³).",
+        "ru": "Найдите плотность тела массой 500 г и объёмом 2 см³ (г/см³)."
+      },
+      "options": {
+        "uz": [
+          "260",
+          "250",
+          "230",
+          "240"
+        ],
+        "ru": [
+          "260",
+          "250",
+          "230",
+          "240"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Zichlik = massa/hajm = 500/2 = 250 g/sm³.",
+        "ru": "Плотность = масса/объём = 500/2 = 250 г/см³."
+      }
+    },
+    {
+      "id": "fz-26-05",
+      "prompt": {
+        "uz": "30 N kuch jismni 6 metrga siljitsa, bajarilgan ish (Joul) nechaga teng? (A=F×s)",
+        "ru": "Сила 30 Н перемещает тело на 6 м. Чему равна совершённая работа (Дж)? (A=F×s)"
+      },
+      "options": {
+        "uz": [
+          "200",
+          "180",
+          "160",
+          "220"
+        ],
+        "ru": [
+          "200",
+          "180",
+          "160",
+          "220"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "A = F × s = 30 × 6 = 180 J.",
+        "ru": "A = F × s = 30 × 6 = 180 Дж."
+      }
+    },
+    {
+      "id": "fz-26-06",
+      "prompt": {
+        "uz": "300 N kuch 2 m² yuzaga ta'sir qilsa, bosim (Pa) nechaga teng? (P=F/S)",
+        "ru": "Сила 300 Н действует на площадь 2 м². Чему равно давление (Па)? (P=F/S)"
+      },
+      "options": {
+        "uz": [
+          "130",
+          "140",
+          "150",
+          "160"
+        ],
+        "ru": [
+          "130",
+          "140",
+          "150",
+          "160"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "P = F/S = 300/2 = 150 Pa.",
+        "ru": "P = F/S = 300/2 = 150 Па."
+      }
+    },
+    {
+      "id": "fz-26-07",
+      "prompt": {
+        "uz": "Massasi 8 kg, tezligi 2 m/s bo'lgan jismning kinetik energiyasi (J) nechaga teng? (Ek=mv²/2)",
+        "ru": "Тело массой 8 кг движется со скоростью 2 м/с. Чему равна его кинетическая энергия (Дж)? (Ek=mv²/2)"
+      },
+      "options": {
+        "uz": [
+          "36",
+          "26",
+          "16",
+          "6"
+        ],
+        "ru": [
+          "36",
+          "26",
+          "16",
+          "6"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Ek = mv²/2 = 8×2²/2 = 16 J.",
+        "ru": "Ek = mv²/2 = 8×2²/2 = 16 Дж."
+      }
+    },
+    {
+      "id": "fz-26-08",
+      "prompt": {
+        "uz": "200 J ish 10 soniyada bajarilsa, quvvat (Vt) nechaga teng? (N=A/t)",
+        "ru": "Работа 200 Дж выполнена за 10 секунд. Чему равна мощность (Вт)? (N=A/t)"
+      },
+      "options": {
+        "uz": [
+          "40",
+          "10",
+          "20",
+          "30"
+        ],
+        "ru": [
+          "40",
+          "10",
+          "20",
+          "30"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "N = A/t = 200/10 = 20 Vt.",
+        "ru": "N = A/t = 200/10 = 20 Вт."
+      }
+    },
+    {
+      "id": "fz-26-09",
+      "prompt": {
+        "uz": "Massasi 15 kg bo'lgan jismning og'irligi (N) nechaga teng? (g≈10 m/s², P=mg)",
+        "ru": "Чему равен вес тела массой 15 кг (Н)? (g≈10 м/с², P=mg)"
+      },
+      "options": {
+        "uz": [
+          "150",
+          "140",
+          "170",
+          "130"
+        ],
+        "ru": [
+          "150",
+          "140",
+          "170",
+          "130"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "P = mg = 15 × 10 = 150 N.",
+        "ru": "P = mg = 15 × 10 = 150 Н."
+      }
+    },
+    {
+      "id": "fz-26-10",
+      "prompt": {
+        "uz": "3 kg suvni 20°C ga isitish uchun kerakli issiqlik miqdori (kJ) taxminan nechaga teng? (suv solishtirma issiqlik sig'imi c≈4200 J/(kg·°C))",
+        "ru": "Сколько теплоты (кДж) примерно нужно, чтобы нагреть 3 кг воды на 20°C? (удельная теплоёмкость воды c≈4200 Дж/(кг·°C))"
+      },
+      "options": {
+        "uz": [
+          "252",
+          "272",
+          "232",
+          "212"
+        ],
+        "ru": [
+          "252",
+          "272",
+          "232",
+          "212"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Q = mcΔt = 3×4200×20 ≈ 252 kJ (ming Joulga aylantirilgan).",
+        "ru": "Q = mcΔt = 3×4200×20 ≈ 252 кДж."
+      }
+    },
+    {
+      "id": "fz-26-11",
+      "prompt": {
+        "uz": "Tana 40 m/s tezlik bilan 8 soniya harakatlansa, necha metr masofa bosib o'tadi?",
+        "ru": "Тело движется со скоростью 40 м/с в течение 8 секунд. Какое расстояние оно пройдёт?"
+      },
+      "options": {
+        "uz": [
+          "300",
+          "340",
+          "320",
+          "330"
+        ],
+        "ru": [
+          "300",
+          "340",
+          "320",
+          "330"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Masofa = tezlik × vaqt = 40 × 8 = 320 m.",
+        "ru": "Расстояние = скорость × время = 40 × 8 = 320 м."
+      }
+    },
+    {
+      "id": "fz-26-12",
+      "prompt": {
+        "uz": "Massasi 6 kg bo'lgan jismga 2 m/s² tezlanish berish uchun qancha kuch (N) kerak? (F=ma)",
+        "ru": "Какая сила (Н) нужна, чтобы придать телу массой 6 кг ускорение 2 м/с²? (F=ma)"
+      },
+      "options": {
+        "uz": [
+          "14",
+          "10",
+          "18",
+          "12"
+        ],
+        "ru": [
+          "14",
+          "10",
+          "18",
+          "12"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "F = m × a = 6 × 2 = 12 N.",
+        "ru": "F = m × a = 6 × 2 = 12 Н."
+      }
+    },
+    {
+      "id": "fz-26-13",
+      "prompt": {
+        "uz": "Zanjirdagi tok kuchi 3 A, qarshilik 5 Om bo'lsa, kuchlanish (V) nechaga teng? (Om qonuni: V=IR)",
+        "ru": "Сила тока в цепи 3 А, сопротивление 5 Ом. Чему равно напряжение (В)? (Закон Ома: V=IR)"
+      },
+      "options": {
+        "uz": [
+          "13",
+          "15",
+          "21",
+          "17"
+        ],
+        "ru": [
+          "13",
+          "15",
+          "21",
+          "17"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "V = I × R = 3 × 5 = 15 V.",
+        "ru": "V = I × R = 3 × 5 = 15 В."
+      }
+    },
+    {
+      "id": "fz-26-14",
+      "prompt": {
+        "uz": "Massasi 100 g, hajmi 5 sm³ bo'lgan jismning zichligini toping (g/sm³).",
+        "ru": "Найдите плотность тела массой 100 г и объёмом 5 см³ (г/см³)."
+      },
+      "options": {
+        "uz": [
+          "20",
+          "30",
+          "0",
+          "50"
+        ],
+        "ru": [
+          "20",
+          "30",
+          "0",
+          "50"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Zichlik = massa/hajm = 100/5 = 20 g/sm³.",
+        "ru": "Плотность = масса/объём = 100/5 = 20 г/см³."
+      }
+    },
+    {
+      "id": "fz-26-15",
+      "prompt": {
+        "uz": "30 N kuch jismni 10 metrga siljitsa, bajarilgan ish (Joul) nechaga teng? (A=F×s)",
+        "ru": "Сила 30 Н перемещает тело на 10 м. Чему равна совершённая работа (Дж)? (A=F×s)"
+      },
+      "options": {
+        "uz": [
+          "360",
+          "320",
+          "260",
+          "300"
+        ],
+        "ru": [
+          "360",
+          "320",
+          "260",
+          "300"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "A = F × s = 30 × 10 = 300 J.",
+        "ru": "A = F × s = 30 × 10 = 300 Дж."
+      }
+    },
+    {
+      "id": "fz-26-16",
+      "prompt": {
+        "uz": "300 N kuch 4 m² yuzaga ta'sir qilsa, bosim (Pa) nechaga teng? (P=F/S)",
+        "ru": "Сила 300 Н действует на площадь 4 м². Чему равно давление (Па)? (P=F/S)"
+      },
+      "options": {
+        "uz": [
+          "55",
+          "85",
+          "65",
+          "75"
+        ],
+        "ru": [
+          "55",
+          "85",
+          "65",
+          "75"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "P = F/S = 300/4 = 75 Pa.",
+        "ru": "P = F/S = 300/4 = 75 Па."
+      }
+    },
+    {
+      "id": "fz-26-17",
+      "prompt": {
+        "uz": "Massasi 2 kg, tezligi 4 m/s bo'lgan jismning kinetik energiyasi (J) nechaga teng? (Ek=mv²/2)",
+        "ru": "Тело массой 2 кг движется со скоростью 4 м/с. Чему равна его кинетическая энергия (Дж)? (Ek=mv²/2)"
+      },
+      "options": {
+        "uz": [
+          "46",
+          "16",
+          "26",
+          "6"
+        ],
+        "ru": [
+          "46",
+          "16",
+          "26",
+          "6"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Ek = mv²/2 = 2×4²/2 = 16 J.",
+        "ru": "Ek = mv²/2 = 2×4²/2 = 16 Дж."
+      }
+    },
+    {
+      "id": "fz-26-18",
+      "prompt": {
+        "uz": "400 J ish 10 soniyada bajarilsa, quvvat (Vt) nechaga teng? (N=A/t)",
+        "ru": "Работа 400 Дж выполнена за 10 секунд. Чему равна мощность (Вт)? (N=A/t)"
+      },
+      "options": {
+        "uz": [
+          "30",
+          "40",
+          "50",
+          "20"
+        ],
+        "ru": [
+          "30",
+          "40",
+          "50",
+          "20"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "N = A/t = 400/10 = 40 Vt.",
+        "ru": "N = A/t = 400/10 = 40 Вт."
+      }
+    },
+    {
+      "id": "fz-26-19",
+      "prompt": {
+        "uz": "Massasi 10 kg bo'lgan jismning og'irligi (N) nechaga teng? (g≈10 m/s², P=mg)",
+        "ru": "Чему равен вес тела массой 10 кг (Н)? (g≈10 м/с², P=mg)"
+      },
+      "options": {
+        "uz": [
+          "80",
+          "120",
+          "110",
+          "100"
+        ],
+        "ru": [
+          "80",
+          "120",
+          "110",
+          "100"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "P = mg = 10 × 10 = 100 N.",
+        "ru": "P = mg = 10 × 10 = 100 Н."
+      }
+    },
+    {
+      "id": "fz-26-20",
+      "prompt": {
+        "uz": "2 kg suvni 10°C ga isitish uchun kerakli issiqlik miqdori (kJ) taxminan nechaga teng? (suv solishtirma issiqlik sig'imi c≈4200 J/(kg·°C))",
+        "ru": "Сколько теплоты (кДж) примерно нужно, чтобы нагреть 2 кг воды на 10°C? (удельная теплоёмкость воды c≈4200 Дж/(кг·°C))"
+      },
+      "options": {
+        "uz": [
+          "104",
+          "124",
+          "64",
+          "84"
+        ],
+        "ru": [
+          "104",
+          "124",
+          "64",
+          "84"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Q = mcΔt = 2×4200×10 ≈ 84 kJ (ming Joulga aylantirilgan).",
+        "ru": "Q = mcΔt = 2×4200×10 ≈ 84 кДж."
+      }
+    },
+    {
+      "id": "fz-26-21",
+      "prompt": {
+        "uz": "Tana 60 m/s tezlik bilan 8 soniya harakatlansa, necha metr masofa bosib o'tadi?",
+        "ru": "Тело движется со скоростью 60 м/с в течение 8 секунд. Какое расстояние оно пройдёт?"
+      },
+      "options": {
+        "uz": [
+          "510",
+          "460",
+          "500",
+          "480"
+        ],
+        "ru": [
+          "510",
+          "460",
+          "500",
+          "480"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Masofa = tezlik × vaqt = 60 × 8 = 480 m.",
+        "ru": "Расстояние = скорость × время = 60 × 8 = 480 м."
+      }
+    },
+    {
+      "id": "fz-26-22",
+      "prompt": {
+        "uz": "Massasi 3 kg bo'lgan jismga 5 m/s² tezlanish berish uchun qancha kuch (N) kerak? (F=ma)",
+        "ru": "Какая сила (Н) нужна, чтобы придать телу массой 3 кг ускорение 5 м/с²? (F=ma)"
+      },
+      "options": {
+        "uz": [
+          "19",
+          "21",
+          "15",
+          "13"
+        ],
+        "ru": [
+          "19",
+          "21",
+          "15",
+          "13"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "F = m × a = 3 × 5 = 15 N.",
+        "ru": "F = m × a = 3 × 5 = 15 Н."
+      }
+    },
+    {
+      "id": "fz-26-23",
+      "prompt": {
+        "uz": "Zanjirdagi tok kuchi 4 A, qarshilik 6 Om bo'lsa, kuchlanish (V) nechaga teng? (Om qonuni: V=IR)",
+        "ru": "Сила тока в цепи 4 А, сопротивление 6 Ом. Чему равно напряжение (В)? (Закон Ома: V=IR)"
+      },
+      "options": {
+        "uz": [
+          "24",
+          "22",
+          "26",
+          "20"
+        ],
+        "ru": [
+          "24",
+          "22",
+          "26",
+          "20"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "V = I × R = 4 × 6 = 24 V.",
+        "ru": "V = I × R = 4 × 6 = 24 В."
+      }
+    },
+    {
+      "id": "fz-26-24",
+      "prompt": {
+        "uz": "50 N kuch jismni 7 metrga siljitsa, bajarilgan ish (Joul) nechaga teng? (A=F×s)",
+        "ru": "Сила 50 Н перемещает тело на 7 м. Чему равна совершённая работа (Дж)? (A=F×s)"
+      },
+      "options": {
+        "uz": [
+          "330",
+          "390",
+          "350",
+          "410"
+        ],
+        "ru": [
+          "330",
+          "390",
+          "350",
+          "410"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "A = F × s = 50 × 7 = 350 J.",
+        "ru": "A = F × s = 50 × 7 = 350 Дж."
+      }
+    },
+    {
+      "id": "fz-26-25",
+      "prompt": {
+        "uz": "100 N kuch 10 m² yuzaga ta'sir qilsa, bosim (Pa) nechaga teng? (P=F/S)",
+        "ru": "Сила 100 Н действует на площадь 10 м². Чему равно давление (Па)? (P=F/S)"
+      },
+      "options": {
+        "uz": [
+          "30",
+          "10",
+          "20",
+          "-10"
+        ],
+        "ru": [
+          "30",
+          "10",
+          "20",
+          "-10"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "P = F/S = 100/10 = 10 Pa.",
+        "ru": "P = F/S = 100/10 = 10 Па."
+      }
+    },
+    {
+      "id": "fz-26-26",
+      "prompt": {
+        "uz": "Massasi 4 kg, tezligi 4 m/s bo'lgan jismning kinetik energiyasi (J) nechaga teng? (Ek=mv²/2)",
+        "ru": "Тело массой 4 кг движется со скоростью 4 м/с. Чему равна его кинетическая энергия (Дж)? (Ek=mv²/2)"
+      },
+      "options": {
+        "uz": [
+          "32",
+          "22",
+          "42",
+          "52"
+        ],
+        "ru": [
+          "32",
+          "22",
+          "42",
+          "52"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Ek = mv²/2 = 4×4²/2 = 32 J.",
+        "ru": "Ek = mv²/2 = 4×4²/2 = 32 Дж."
+      }
+    },
+    {
+      "id": "fz-26-27",
+      "prompt": {
+        "uz": "600 J ish 5 soniyada bajarilsa, quvvat (Vt) nechaga teng? (N=A/t)",
+        "ru": "Работа 600 Дж выполнена за 5 секунд. Чему равна мощность (Вт)? (N=A/t)"
+      },
+      "options": {
+        "uz": [
+          "110",
+          "140",
+          "100",
+          "120"
+        ],
+        "ru": [
+          "110",
+          "140",
+          "100",
+          "120"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "N = A/t = 600/5 = 120 Vt.",
+        "ru": "N = A/t = 600/5 = 120 Вт."
+      }
+    },
+    {
+      "id": "fz-26-28",
+      "prompt": {
+        "uz": "2 kg suvni 30°C ga isitish uchun kerakli issiqlik miqdori (kJ) taxminan nechaga teng? (suv solishtirma issiqlik sig'imi c≈4200 J/(kg·°C))",
+        "ru": "Сколько теплоты (кДж) примерно нужно, чтобы нагреть 2 кг воды на 30°C? (удельная теплоёмкость воды c≈4200 Дж/(кг·°C))"
+      },
+      "options": {
+        "uz": [
+          "252",
+          "212",
+          "292",
+          "232"
+        ],
+        "ru": [
+          "252",
+          "212",
+          "292",
+          "232"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Q = mcΔt = 2×4200×30 ≈ 252 kJ (ming Joulga aylantirilgan).",
+        "ru": "Q = mcΔt = 2×4200×30 ≈ 252 кДж."
+      }
+    },
+    {
+      "id": "fz-26-29",
+      "prompt": {
+        "uz": "Tana 30 m/s tezlik bilan 2 soniya harakatlansa, necha metr masofa bosib o'tadi?",
+        "ru": "Тело движется со скоростью 30 м/с в течение 2 секунд. Какое расстояние оно пройдёт?"
+      },
+      "options": {
+        "uz": [
+          "50",
+          "80",
+          "90",
+          "60"
+        ],
+        "ru": [
+          "50",
+          "80",
+          "90",
+          "60"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Masofa = tezlik × vaqt = 30 × 2 = 60 m.",
+        "ru": "Расстояние = скорость × время = 30 × 2 = 60 м."
+      }
+    },
+    {
+      "id": "fz-26-30",
+      "prompt": {
+        "uz": "Zanjirdagi tok kuchi 5 A, qarshilik 10 Om bo'lsa, kuchlanish (V) nechaga teng? (Om qonuni: V=IR)",
+        "ru": "Сила тока в цепи 5 А, сопротивление 10 Ом. Чему равно напряжение (В)? (Закон Ома: V=IR)"
+      },
+      "options": {
+        "uz": [
+          "46",
+          "48",
+          "54",
+          "50"
+        ],
+        "ru": [
+          "46",
+          "48",
+          "54",
+          "50"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "V = I × R = 5 × 10 = 50 V.",
+        "ru": "V = I × R = 5 × 10 = 50 В."
+      }
+    }
+  ]
+}

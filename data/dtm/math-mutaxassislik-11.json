@@ -1,0 +1,789 @@
+{
+  "subject": "DTM",
+  "topic": {
+    "uz": "Mutaxassislik Fan — 11-guruh",
+    "ru": "Профильный предмет — Группа 11"
+  },
+  "questions": [
+    {
+      "id": "mx-11-01",
+      "prompt": {
+        "uz": "f(x) = 3x² - 1x + 1 funksiyaning hosilasini toping.",
+        "ru": "Найдите производную функции f(x) = 3x² - 1x + 1."
+      },
+      "options": {
+        "uz": [
+          "6x - 1",
+          "8x + 1",
+          "4x + 1",
+          "8x + 0"
+        ],
+        "ru": [
+          "6x - 1",
+          "8x + 1",
+          "4x + 1",
+          "8x + 0"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "(3x²)' = 6x, (-1x)' = -1, (1)' = 0. Javob: 6x - 1.",
+        "ru": "(3x²)' = 6x, (-1x)' = -1, (1)' = 0. Ответ: 6x - 1."
+      }
+    },
+    {
+      "id": "mx-11-02",
+      "prompt": {
+        "uz": "cos(30°) qiymati nechaga teng?",
+        "ru": "Чему равен cos(30°)?"
+      },
+      "options": {
+        "uz": [
+          "√3/3",
+          "√3/2",
+          "0",
+          "1"
+        ],
+        "ru": [
+          "√3/3",
+          "√3/2",
+          "0",
+          "1"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "cos(30°) trigonometrik jadval bo'yicha √3/2 ga teng.",
+        "ru": "cos(30°) по тригонометрической таблице равен √3/2."
+      }
+    },
+    {
+      "id": "mx-11-03",
+      "prompt": {
+        "uz": "log_5 125 nechaga teng?",
+        "ru": "Чему равен log_5 125?"
+      },
+      "options": {
+        "uz": [
+          "5",
+          "3",
+          "2",
+          "1"
+        ],
+        "ru": [
+          "5",
+          "3",
+          "2",
+          "1"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "5^3 = 125, shuning uchun log_5125 = 3.",
+        "ru": "5^3 = 125, значит log_5125 = 3."
+      }
+    },
+    {
+      "id": "mx-11-04",
+      "prompt": {
+        "uz": "10 ta kishidan 2 tasini tanlash usullari soni nechta? (C(10,2))",
+        "ru": "Сколькими способами можно выбрать 2 человек из 10? (C(10,2))"
+      },
+      "options": {
+        "uz": [
+          "45",
+          "50",
+          "40",
+          "55"
+        ],
+        "ru": [
+          "45",
+          "50",
+          "40",
+          "55"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "C(10,2) = 10!/(2!×8!) = 45.",
+        "ru": "C(10,2) = 10!/(2!×8!) = 45."
+      }
+    },
+    {
+      "id": "mx-11-05",
+      "prompt": {
+        "uz": "6 ta kishidan 3 tasini navbat bilan joylashtirish (o'rin almashtirish) usullari soni? P(6,3)",
+        "ru": "Сколько способов упорядоченно расставить 3 из 6 человек? P(6,3)"
+      },
+      "options": {
+        "uz": [
+          "140",
+          "100",
+          "110",
+          "120"
+        ],
+        "ru": [
+          "140",
+          "100",
+          "110",
+          "120"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "P(6,3) = 6!/(3)! = 120.",
+        "ru": "P(6,3) = 6!/(3)! = 120."
+      }
+    },
+    {
+      "id": "mx-11-06",
+      "prompt": {
+        "uz": "x² - 7x + 12 = 0 tenglamaning ildizlari yig'indisi nechaga teng?",
+        "ru": "Чему равна сумма корней уравнения x² - 7x + 12 = 0?"
+      },
+      "options": {
+        "uz": [
+          "7",
+          "9",
+          "4",
+          "8"
+        ],
+        "ru": [
+          "7",
+          "9",
+          "4",
+          "8"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Vyet teoremasiga ko'ra ildizlar yig'indisi = -b/a = 7.",
+        "ru": "По теореме Виета сумма корней равна -b/a = 7."
+      }
+    },
+    {
+      "id": "mx-11-07",
+      "prompt": {
+        "uz": "lim(x→∞) (8x² + 1)/(7x² + 5) nechaga teng?",
+        "ru": "Чему равен lim(x→∞) (8x² + 1)/(7x² + 5)?"
+      },
+      "options": {
+        "uz": [
+          "3/8",
+          "9/4",
+          "7/8",
+          "8/7"
+        ],
+        "ru": [
+          "3/8",
+          "9/4",
+          "7/8",
+          "8/7"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Eng yuqori darajali hadlar nisbati: 8x²/7x² = 8/7.",
+        "ru": "Отношение старших членов: 8x²/7x² = 8/7."
+      }
+    },
+    {
+      "id": "mx-11-08",
+      "prompt": {
+        "uz": "Geometrik progressiyada a1 = 3, maxraj q = 3. Birinchi 4 ta hadning yig'indisi nechaga teng?",
+        "ru": "В геометрической прогрессии a1 = 3, знаменатель q = 3. Чему равна сумма первых 4 членов?"
+      },
+      "options": {
+        "uz": [
+          "110",
+          "120",
+          "130",
+          "140"
+        ],
+        "ru": [
+          "110",
+          "120",
+          "130",
+          "140"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Sn = a1(q^n-1)/(q-1) = 3×(3^4-1)/2 = 120.",
+        "ru": "Sn = a1(q^n-1)/(q-1) = 3×(3^4-1)/2 = 120."
+      }
+    },
+    {
+      "id": "mx-11-09",
+      "prompt": {
+        "uz": "Bir hodisaning ehtimoli 1/4 ga teng. Ikkita mustaqil urinishda ikkalasi ham ro'y berish ehtimoli nechaga teng?",
+        "ru": "Вероятность события равна 1/4. Какова вероятность того, что оно произойдёт в обоих из двух независимых испытаний?"
+      },
+      "options": {
+        "uz": [
+          "7/7",
+          "7/4",
+          "1/16",
+          "5/8"
+        ],
+        "ru": [
+          "7/7",
+          "7/4",
+          "1/16",
+          "5/8"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "(1/4) × (1/4) = 1/16.",
+        "ru": "(1/4) × (1/4) = 1/16."
+      }
+    },
+    {
+      "id": "mx-11-10",
+      "prompt": {
+        "uz": "Vektor a(9, 12) ning uzunligi (moduli) nechaga teng?",
+        "ru": "Чему равна длина (модуль) вектора a(9, 12)?"
+      },
+      "options": {
+        "uz": [
+          "15",
+          "12",
+          "16",
+          "13"
+        ],
+        "ru": [
+          "15",
+          "12",
+          "16",
+          "13"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "|a| = √(9² + 12²) = √225 = 15.",
+        "ru": "|a| = √(9² + 12²) = √225 = 15."
+      }
+    },
+    {
+      "id": "mx-11-11",
+      "prompt": {
+        "uz": "f(x) = 4x² + 8x - 5 funksiyaning hosilasini toping.",
+        "ru": "Найдите производную функции f(x) = 4x² + 8x - 5."
+      },
+      "options": {
+        "uz": [
+          "10x + 7",
+          "8x + 8",
+          "6x + 10",
+          "6x + 7"
+        ],
+        "ru": [
+          "10x + 7",
+          "8x + 8",
+          "6x + 10",
+          "6x + 7"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "(4x²)' = 8x, (8x)' = 8, (-5)' = 0. Javob: 8x + 8.",
+        "ru": "(4x²)' = 8x, (8x)' = 8, (-5)' = 0. Ответ: 8x + 8."
+      }
+    },
+    {
+      "id": "mx-11-12",
+      "prompt": {
+        "uz": "tan(30°) qiymati nechaga teng?",
+        "ru": "Чему равен tan(30°)?"
+      },
+      "options": {
+        "uz": [
+          "√3/3",
+          "1",
+          "√2/2",
+          "√3/2"
+        ],
+        "ru": [
+          "√3/3",
+          "1",
+          "√2/2",
+          "√3/2"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "tan(30°) trigonometrik jadval bo'yicha √3/3 ga teng.",
+        "ru": "tan(30°) по тригонометрической таблице равен √3/3."
+      }
+    },
+    {
+      "id": "mx-11-13",
+      "prompt": {
+        "uz": "7 ta kishidan 2 tasini navbat bilan joylashtirish (o'rin almashtirish) usullari soni? P(7,2)",
+        "ru": "Сколько способов упорядоченно расставить 2 из 7 человек? P(7,2)"
+      },
+      "options": {
+        "uz": [
+          "42",
+          "72",
+          "22",
+          "52"
+        ],
+        "ru": [
+          "42",
+          "72",
+          "22",
+          "52"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "P(7,2) = 7!/(5)! = 42.",
+        "ru": "P(7,2) = 7!/(5)! = 42."
+      }
+    },
+    {
+      "id": "mx-11-14",
+      "prompt": {
+        "uz": "x² + 4x - 12 = 0 tenglamaning ildizlari yig'indisi nechaga teng?",
+        "ru": "Чему равна сумма корней уравнения x² + 4x - 12 = 0?"
+      },
+      "options": {
+        "uz": [
+          "-5",
+          "-6",
+          "-7",
+          "-4"
+        ],
+        "ru": [
+          "-5",
+          "-6",
+          "-7",
+          "-4"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Vyet teoremasiga ko'ra ildizlar yig'indisi = -b/a = -4.",
+        "ru": "По теореме Виета сумма корней равна -b/a = -4."
+      }
+    },
+    {
+      "id": "mx-11-15",
+      "prompt": {
+        "uz": "lim(x→∞) (8x² + 1)/(2x² + 5) nechaga teng?",
+        "ru": "Чему равен lim(x→∞) (8x² + 1)/(2x² + 5)?"
+      },
+      "options": {
+        "uz": [
+          "7/9",
+          "4",
+          "5/2",
+          "1/5"
+        ],
+        "ru": [
+          "7/9",
+          "4",
+          "5/2",
+          "1/5"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Eng yuqori darajali hadlar nisbati: 8x²/2x² = 4.",
+        "ru": "Отношение старших членов: 8x²/2x² = 4."
+      }
+    },
+    {
+      "id": "mx-11-16",
+      "prompt": {
+        "uz": "Geometrik progressiyada a1 = 3, maxraj q = 2. Birinchi 5 ta hadning yig'indisi nechaga teng?",
+        "ru": "В геометрической прогрессии a1 = 3, знаменатель q = 2. Чему равна сумма первых 5 членов?"
+      },
+      "options": {
+        "uz": [
+          "93",
+          "103",
+          "113",
+          "83"
+        ],
+        "ru": [
+          "93",
+          "103",
+          "113",
+          "83"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Sn = a1(q^n-1)/(q-1) = 3×(2^5-1)/1 = 93.",
+        "ru": "Sn = a1(q^n-1)/(q-1) = 3×(2^5-1)/1 = 93."
+      }
+    },
+    {
+      "id": "mx-11-17",
+      "prompt": {
+        "uz": "Vektor a(7, 24) ning uzunligi (moduli) nechaga teng?",
+        "ru": "Чему равна длина (модуль) вектора a(7, 24)?"
+      },
+      "options": {
+        "uz": [
+          "22",
+          "26",
+          "27",
+          "25"
+        ],
+        "ru": [
+          "22",
+          "26",
+          "27",
+          "25"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "|a| = √(7² + 24²) = √625 = 25.",
+        "ru": "|a| = √(7² + 24²) = √625 = 25."
+      }
+    },
+    {
+      "id": "mx-11-18",
+      "prompt": {
+        "uz": "f(x) = 5x² - 6x + 2 funksiyaning hosilasini toping.",
+        "ru": "Найдите производную функции f(x) = 5x² - 6x + 2."
+      },
+      "options": {
+        "uz": [
+          "12x - 5",
+          "12x - 8",
+          "8x - 4",
+          "10x - 6"
+        ],
+        "ru": [
+          "12x - 5",
+          "12x - 8",
+          "8x - 4",
+          "10x - 6"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "(5x²)' = 10x, (-6x)' = -6, (2)' = 0. Javob: 10x - 6.",
+        "ru": "(5x²)' = 10x, (-6x)' = -6, (2)' = 0. Ответ: 10x - 6."
+      }
+    },
+    {
+      "id": "mx-11-19",
+      "prompt": {
+        "uz": "log_2 16 nechaga teng?",
+        "ru": "Чему равен log_2 16?"
+      },
+      "options": {
+        "uz": [
+          "4",
+          "3",
+          "2",
+          "6"
+        ],
+        "ru": [
+          "4",
+          "3",
+          "2",
+          "6"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "2^4 = 16, shuning uchun log_216 = 4.",
+        "ru": "2^4 = 16, значит log_216 = 4."
+      }
+    },
+    {
+      "id": "mx-11-20",
+      "prompt": {
+        "uz": "6 ta kishidan 4 tasini tanlash usullari soni nechta? (C(6,4))",
+        "ru": "Сколькими способами можно выбрать 4 человек из 6? (C(6,4))"
+      },
+      "options": {
+        "uz": [
+          "25",
+          "30",
+          "15",
+          "20"
+        ],
+        "ru": [
+          "25",
+          "30",
+          "15",
+          "20"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "C(6,4) = 6!/(4!×2!) = 15.",
+        "ru": "C(6,4) = 6!/(4!×2!) = 15."
+      }
+    },
+    {
+      "id": "mx-11-21",
+      "prompt": {
+        "uz": "5 ta kishidan 3 tasini navbat bilan joylashtirish (o'rin almashtirish) usullari soni? P(5,3)",
+        "ru": "Сколько способов упорядоченно расставить 3 из 5 человек? P(5,3)"
+      },
+      "options": {
+        "uz": [
+          "60",
+          "40",
+          "80",
+          "70"
+        ],
+        "ru": [
+          "60",
+          "40",
+          "80",
+          "70"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "P(5,3) = 5!/(2)! = 60.",
+        "ru": "P(5,3) = 5!/(2)! = 60."
+      }
+    },
+    {
+      "id": "mx-11-22",
+      "prompt": {
+        "uz": "x² + 10x + 24 = 0 tenglamaning ildizlari yig'indisi nechaga teng?",
+        "ru": "Чему равна сумма корней уравнения x² + 10x + 24 = 0?"
+      },
+      "options": {
+        "uz": [
+          "-10",
+          "-12",
+          "-7",
+          "-11"
+        ],
+        "ru": [
+          "-10",
+          "-12",
+          "-7",
+          "-11"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Vyet teoremasiga ko'ra ildizlar yig'indisi = -b/a = -10.",
+        "ru": "По теореме Виета сумма корней равна -b/a = -10."
+      }
+    },
+    {
+      "id": "mx-11-23",
+      "prompt": {
+        "uz": "lim(x→∞) (3x² + 1)/(5x² + 5) nechaga teng?",
+        "ru": "Чему равен lim(x→∞) (3x² + 1)/(5x² + 5)?"
+      },
+      "options": {
+        "uz": [
+          "7/3",
+          "1/2",
+          "3/5",
+          "7/8"
+        ],
+        "ru": [
+          "7/3",
+          "1/2",
+          "3/5",
+          "7/8"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Eng yuqori darajali hadlar nisbati: 3x²/5x² = 3/5.",
+        "ru": "Отношение старших членов: 3x²/5x² = 3/5."
+      }
+    },
+    {
+      "id": "mx-11-24",
+      "prompt": {
+        "uz": "Geometrik progressiyada a1 = 1, maxraj q = 2. Birinchi 5 ta hadning yig'indisi nechaga teng?",
+        "ru": "В геометрической прогрессии a1 = 1, знаменатель q = 2. Чему равна сумма первых 5 членов?"
+      },
+      "options": {
+        "uz": [
+          "36",
+          "21",
+          "26",
+          "31"
+        ],
+        "ru": [
+          "36",
+          "21",
+          "26",
+          "31"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Sn = a1(q^n-1)/(q-1) = 1×(2^5-1)/1 = 31.",
+        "ru": "Sn = a1(q^n-1)/(q-1) = 1×(2^5-1)/1 = 31."
+      }
+    },
+    {
+      "id": "mx-11-25",
+      "prompt": {
+        "uz": "Bir hodisaning ehtimoli 2/3 ga teng. Ikkita mustaqil urinishda ikkalasi ham ro'y berish ehtimoli nechaga teng?",
+        "ru": "Вероятность события равна 2/3. Какова вероятность того, что оно произойдёт в обоих из двух независимых испытаний?"
+      },
+      "options": {
+        "uz": [
+          "2/16",
+          "4/9",
+          "7/2",
+          "9/16"
+        ],
+        "ru": [
+          "2/16",
+          "4/9",
+          "7/2",
+          "9/16"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "(2/3) × (2/3) = 4/9.",
+        "ru": "(2/3) × (2/3) = 4/9."
+      }
+    },
+    {
+      "id": "mx-11-26",
+      "prompt": {
+        "uz": "Vektor a(6, 8) ning uzunligi (moduli) nechaga teng?",
+        "ru": "Чему равна длина (модуль) вектора a(6, 8)?"
+      },
+      "options": {
+        "uz": [
+          "10",
+          "12",
+          "13",
+          "8"
+        ],
+        "ru": [
+          "10",
+          "12",
+          "13",
+          "8"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "|a| = √(6² + 8²) = √100 = 10.",
+        "ru": "|a| = √(6² + 8²) = √100 = 10."
+      }
+    },
+    {
+      "id": "mx-11-27",
+      "prompt": {
+        "uz": "f(x) = 2x² - 5x + 1 funksiyaning hosilasini toping.",
+        "ru": "Найдите производную функции f(x) = 2x² - 5x + 1."
+      },
+      "options": {
+        "uz": [
+          "6x - 4",
+          "2x - 3",
+          "6x - 7",
+          "4x - 5"
+        ],
+        "ru": [
+          "6x - 4",
+          "2x - 3",
+          "6x - 7",
+          "4x - 5"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "(2x²)' = 4x, (-5x)' = -5, (1)' = 0. Javob: 4x - 5.",
+        "ru": "(2x²)' = 4x, (-5x)' = -5, (1)' = 0. Ответ: 4x - 5."
+      }
+    },
+    {
+      "id": "mx-11-28",
+      "prompt": {
+        "uz": "log_3 243 nechaga teng?",
+        "ru": "Чему равен log_3 243?"
+      },
+      "options": {
+        "uz": [
+          "3",
+          "5",
+          "4",
+          "7"
+        ],
+        "ru": [
+          "3",
+          "5",
+          "4",
+          "7"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "3^5 = 243, shuning uchun log_3243 = 5.",
+        "ru": "3^5 = 243, значит log_3243 = 5."
+      }
+    },
+    {
+      "id": "mx-11-29",
+      "prompt": {
+        "uz": "10 ta kishidan 3 tasini tanlash usullari soni nechta? (C(10,3))",
+        "ru": "Сколькими способами можно выбрать 3 человек из 10? (C(10,3))"
+      },
+      "options": {
+        "uz": [
+          "130",
+          "110",
+          "135",
+          "120"
+        ],
+        "ru": [
+          "130",
+          "110",
+          "135",
+          "120"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "C(10,3) = 10!/(3!×7!) = 120.",
+        "ru": "C(10,3) = 10!/(3!×7!) = 120."
+      }
+    },
+    {
+      "id": "mx-11-30",
+      "prompt": {
+        "uz": "5 ta kishidan 2 tasini navbat bilan joylashtirish (o'rin almashtirish) usullari soni? P(5,2)",
+        "ru": "Сколько способов упорядоченно расставить 2 из 5 человек? P(5,2)"
+      },
+      "options": {
+        "uz": [
+          "20",
+          "40",
+          "0",
+          "50"
+        ],
+        "ru": [
+          "20",
+          "40",
+          "0",
+          "50"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "P(5,2) = 5!/(3)! = 20.",
+        "ru": "P(5,2) = 5!/(3)! = 20."
+      }
+    }
+  ]
+}

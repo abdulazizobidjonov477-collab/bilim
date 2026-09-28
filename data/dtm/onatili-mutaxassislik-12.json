@@ -1,0 +1,789 @@
+{
+  "subject": "DTM",
+  "topic": {
+    "uz": "Ona tili va adabiyot — Mutaxassislik — 12-guruh",
+    "ru": "Родной язык и литература — Профильный — Группа 12"
+  },
+  "questions": [
+    {
+      "id": "ot-mx-12-01",
+      "prompt": {
+        "uz": "O'zbek tilida nechta kelishik mavjud?",
+        "ru": "Сколько падежей существует в узбекском языке?"
+      },
+      "options": {
+        "uz": [
+          "7 ta",
+          "4 ta",
+          "6 ta",
+          "5 ta"
+        ],
+        "ru": [
+          "7",
+          "4",
+          "6",
+          "5"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "O'zbek tilida 6 ta kelishik mavjud: bosh, qaratqich, tushum, jo'nalish, o'rin-payt, chiqish kelishigi.",
+        "ru": "В узбекском языке существует 6 падежей: именительный, притяжательный, винительный, направительный, местно-временной, исходный."
+      }
+    },
+    {
+      "id": "ot-mx-12-02",
+      "prompt": {
+        "uz": "'-ning' qo'shimchasi qaysi kelishikka xos?",
+        "ru": "Какому падежу соответствует суффикс '-ning'?"
+      },
+      "options": {
+        "uz": [
+          "Jo'nalish kelishigi",
+          "Tushum kelishigi",
+          "Chiqish kelishigi",
+          "Qaratqich kelishigi"
+        ],
+        "ru": [
+          "Направительный падеж",
+          "Винительный падеж",
+          "Исходный падеж",
+          "Притяжательный падеж"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "'-ning' qo'shimchasi qaratqich kelishigini hosil qiladi (masalan: kitobning).",
+        "ru": "Суффикс '-ning' образует притяжательный падеж (например: kitobning)."
+      }
+    },
+    {
+      "id": "ot-mx-12-03",
+      "prompt": {
+        "uz": "'Sariq gulning navbahori' asari kimga tegishli?",
+        "ru": "Кому принадлежит произведение 'Sariq gulning navbahori'?"
+      },
+      "options": {
+        "uz": [
+          "Oybek",
+          "Cho'lpon",
+          "Hamid Olimjon",
+          "Tog'ay Murod"
+        ],
+        "ru": [
+          "Айбек",
+          "Чулпан",
+          "Хамид Алимджан",
+          "Тогай Мурод"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "'Sariq gulning navbahori' — Tog'ay Murod qalamiga mansub asar.",
+        "ru": "'Sariq gulning navbahori' — произведение писателя Тогая Мурода."
+      }
+    },
+    {
+      "id": "ot-mx-12-04",
+      "prompt": {
+        "uz": "'Mehrobdan chayon' romani muallifi kim?",
+        "ru": "Кто автор романа 'Mehrobdan chayon'?"
+      },
+      "options": {
+        "uz": [
+          "G'afur G'ulom",
+          "Cho'lpon",
+          "Abdulla Qodiriy",
+          "Oybek"
+        ],
+        "ru": [
+          "Гафур Гулям",
+          "Чулпан",
+          "Абдулла Кадыри",
+          "Айбек"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "'Mehrobdan chayon' ham Abdulla Qodiriyning mashhur asarlaridan biridir.",
+        "ru": "'Mehrobdan chayon' также является одним из известных произведений Абдуллы Кадыри."
+      }
+    },
+    {
+      "id": "ot-mx-12-05",
+      "prompt": {
+        "uz": "Undosh tovushlar necha xil bo'ladi (jarangli/jarangsiz jihatidan)?",
+        "ru": "На сколько типов делятся согласные звуки (по звонкости/глухости)?"
+      },
+      "options": {
+        "uz": [
+          "2 xil",
+          "5 xil",
+          "3 xil",
+          "4 xil"
+        ],
+        "ru": [
+          "2",
+          "5",
+          "3",
+          "4"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Undoshlar jarangli va jarangsiz bo'lib ikki turga bo'linadi.",
+        "ru": "Согласные делятся на звонкие и глухие — два типа."
+      }
+    },
+    {
+      "id": "ot-mx-12-06",
+      "prompt": {
+        "uz": "Qo'shma gap deganda nima tushuniladi?",
+        "ru": "Что понимается под сложным предложением?"
+      },
+      "options": {
+        "uz": [
+          "Undalmali gap",
+          "Faqat bitta ega va kesimdan iborat gap",
+          "Ikki yoki undan ortiq sodda gapdan tuzilgan gap",
+          "Kirish so'zli gap"
+        ],
+        "ru": [
+          "Предложение с обращением",
+          "Предложение только с одним подлежащим и сказуемым",
+          "Предложение из двух и более простых предложений",
+          "Предложение с вводным словом"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Qo'shma gap ikki yoki undan ortiq sodda gaplarning birikuvidan hosil bo'ladi.",
+        "ru": "Сложное предложение образуется из объединения двух или более простых предложений."
+      }
+    },
+    {
+      "id": "ot-mx-12-07",
+      "prompt": {
+        "uz": "'Ulug'bek xazinasi' romani muallifi kim?",
+        "ru": "Кто автор романа 'Ulug'bek xazinasi'?"
+      },
+      "options": {
+        "uz": [
+          "Said Ahmad",
+          "Odil Yoqubov",
+          "Cho'lpon",
+          "Oybek"
+        ],
+        "ru": [
+          "Саид Ахмад",
+          "Адыл Якубов",
+          "Чулпан",
+          "Айбек"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "'Ulug'bek xazinasi' — Odil Yoqubovning mashhur tarixiy romani.",
+        "ru": "'Ulug'bek xazinasi' — известный исторический роман Адыла Якубова."
+      }
+    },
+    {
+      "id": "ot-mx-12-08",
+      "prompt": {
+        "uz": "Frazeologizm nima?",
+        "ru": "Что такое фразеологизм?"
+      },
+      "options": {
+        "uz": [
+          "Barqaror birikma, ko'chma ma'noli ibora",
+          "Sinonimlar qatori",
+          "Bitta so'zdan iborat atama",
+          "Grammatik qo'shimcha"
+        ],
+        "ru": [
+          "Устойчивое словосочетание с переносным значением",
+          "Ряд синонимов",
+          "Термин из одного слова",
+          "Грамматический суффикс"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Frazeologizm — tarkibi barqaror, ko'chma ma'noda qo'llanadigan so'z birikmasi (masalan: 'ko'ngli to'q').",
+        "ru": "Фразеологизм — устойчивое словосочетание, употребляемое в переносном значении."
+      }
+    },
+    {
+      "id": "ot-mx-12-09",
+      "prompt": {
+        "uz": "'Sarob' romani kimga tegishli?",
+        "ru": "Кому принадлежит роман 'Sarob'?"
+      },
+      "options": {
+        "uz": [
+          "Cho'lpon",
+          "Abdulla Qahhor",
+          "Oybek",
+          "G'afur G'ulom"
+        ],
+        "ru": [
+          "Чулпан",
+          "Абдулла Каххар",
+          "Айбек",
+          "Гафур Гулям"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "'Sarob' — Abdulla Qahhorning mashhur asaridir.",
+        "ru": "'Sarob' — известное произведение Абдуллы Каххара."
+      }
+    },
+    {
+      "id": "ot-mx-12-10",
+      "prompt": {
+        "uz": "Sifatdosh nima?",
+        "ru": "Что такое причастие (sifatdosh)?"
+      },
+      "options": {
+        "uz": [
+          "Fe'ldan yasalgan, sifat vazifasini bajaruvchi shakl",
+          "Undov so'z",
+          "Faqat ot turkumiga oid so'z",
+          "Ravishning bir turi"
+        ],
+        "ru": [
+          "Форма, образованная от глагола, выполняющая функцию прилагательного",
+          "Междометие",
+          "Слово, относящееся только к существительным",
+          "Разновидность наречия"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Sifatdosh fe'ldan yasaladi va sifat vazifasida keladi (masalan: 'o'qigan bola').",
+        "ru": "Причастие образуется от глагола и выполняет функцию прилагательного (например: 'o'qigan bola')."
+      }
+    },
+    {
+      "id": "ot-mx-12-11",
+      "prompt": {
+        "uz": "Ravishdosh nima vazifani bajaradi?",
+        "ru": "Какую функцию выполняет деепричастие (ravishdosh)?"
+      },
+      "options": {
+        "uz": [
+          "Harakatning holatini, ravishini bildiradi",
+          "Predmet nomini bildiradi",
+          "Son-sanoqni bildiradi",
+          "Undalma vazifasini bajaradi"
+        ],
+        "ru": [
+          "Обозначает способ действия",
+          "Обозначает название предмета",
+          "Обозначает количество",
+          "Выполняет функцию обращения"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Ravishdosh fe'l harakatining qanday bajarilganini bildiradi (masalan: 'yugurib keldi').",
+        "ru": "Деепричастие обозначает, каким образом совершается действие (например: 'yugurib keldi')."
+      }
+    },
+    {
+      "id": "ot-mx-12-12",
+      "prompt": {
+        "uz": "'Kecha va kunduz' romani muallifi kim?",
+        "ru": "Кто автор романа 'Kecha va kunduz'?"
+      },
+      "options": {
+        "uz": [
+          "Abdulla Qodiriy",
+          "Cho'lpon",
+          "Said Ahmad",
+          "Oybek"
+        ],
+        "ru": [
+          "Абдулла Кадыри",
+          "Чулпан",
+          "Саид Ахмад",
+          "Айбек"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "'Kecha va kunduz' — Cho'lponning mashhur romani.",
+        "ru": "'Kecha va kunduz' — известный роман Чулпана."
+      }
+    },
+    {
+      "id": "ot-mx-12-13",
+      "prompt": {
+        "uz": "Metafora nima?",
+        "ru": "Что такое метафора?"
+      },
+      "options": {
+        "uz": [
+          "Kelishik shakli",
+          "So'z turkumi",
+          "Grammatik qoida",
+          "Ko'chma ma'noda o'xshatishga asoslangan badiiy tasvir"
+        ],
+        "ru": [
+          "Падежная форма",
+          "Часть речи",
+          "Грамматическое правило",
+          "Художественный образ, основанный на переносном сравнении"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Metafora — bir narsa xususiyatini boshqasiga ko'chma ma'noda ko'chirish (masalan: 'quyosh kuldi').",
+        "ru": "Метафора — перенос свойств одного явления на другое в переносном смысле."
+      }
+    },
+    {
+      "id": "ot-mx-12-14",
+      "prompt": {
+        "uz": "'Navoiy' romani/dostoni muallifi kim?",
+        "ru": "Кто автор произведения 'Navoiy'?"
+      },
+      "options": {
+        "uz": [
+          "Oybek",
+          "Cho'lpon",
+          "Abdulla Qodiriy",
+          "Hamza"
+        ],
+        "ru": [
+          "Айбек",
+          "Чулпан",
+          "Абдулла Кадыри",
+          "Хамза"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "'Navoiy' romani Oybek tomonidan yozilgan.",
+        "ru": "Роман 'Navoiy' написан Айбеком."
+      }
+    },
+    {
+      "id": "ot-mx-12-15",
+      "prompt": {
+        "uz": "Undalma gapda qanday vazifa bajaradi?",
+        "ru": "Какую функцию выполняет обращение в предложении?"
+      },
+      "options": {
+        "uz": [
+          "Kesim vazifasini bajaradi",
+          "To'ldiruvchi vazifasini bajaradi",
+          "Murojaat etilayotgan shaxs yoki narsani bildiradi",
+          "Ega vazifasini bajaradi"
+        ],
+        "ru": [
+          "Выполняет функцию сказуемого",
+          "Выполняет функцию дополнения",
+          "Обозначает лицо или предмет, к которому обращаются",
+          "Выполняет функцию подлежащего"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Undalma murojaat qilinayotgan shaxs yoki narsani bildiradi va gap bo'lagi hisoblanmaydi.",
+        "ru": "Обращение обозначает лицо или предмет, к которому обращаются, и не является членом предложения."
+      }
+    },
+    {
+      "id": "ot-mx-12-16",
+      "prompt": {
+        "uz": "'Mukammal bir davr' yoki 'Yulduzli tunlar' romani kimga tegishli?",
+        "ru": "Кому принадлежит роман 'Yulduzli tunlar'?"
+      },
+      "options": {
+        "uz": [
+          "Said Ahmad",
+          "Oybek",
+          "Cho'lpon",
+          "Pirimqul Qodirov"
+        ],
+        "ru": [
+          "Саид Ахмад",
+          "Айбек",
+          "Чулпан",
+          "Пиримкул Кадыров"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "'Yulduzli tunlar' — Pirimqul Qodirovning Bobur haqidagi mashhur romani.",
+        "ru": "'Yulduzli tunlar' — известный роман Пиримкула Кадырова о Бабуре."
+      }
+    },
+    {
+      "id": "ot-mx-12-17",
+      "prompt": {
+        "uz": "Epitet nima?",
+        "ru": "Что такое эпитет?"
+      },
+      "options": {
+        "uz": [
+          "Undosh tovush turi",
+          "Kelishik qo'shimchasi",
+          "Fe'l shakli",
+          "Badiiy aniqlovchi, obrazli sifatlash"
+        ],
+        "ru": [
+          "Тип согласного звука",
+          "Падежный суффикс",
+          "Форма глагола",
+          "Художественное образное определение"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Epitet — predmet yoki hodisani badiiy tarzda ta'riflovchi so'z (masalan: 'oltin kuz').",
+        "ru": "Эпитет — художественное определение, образно характеризующее предмет (например: 'oltin kuz')."
+      }
+    },
+    {
+      "id": "ot-mx-12-18",
+      "prompt": {
+        "uz": "So'roq gap oxirida qanday belgi qo'yiladi?",
+        "ru": "Какой знак ставится в конце вопросительного предложения?"
+      },
+      "options": {
+        "uz": [
+          "Undov belgisi (!)",
+          "So'roq belgisi (?)",
+          "Nuqta (.)",
+          "Vergul (,)"
+        ],
+        "ru": [
+          "Восклицательный знак (!)",
+          "Вопросительный знак (?)",
+          "Точка (.)",
+          "Запятая (,)"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "So'roq gaplar so'roq belgisi bilan tugaydi.",
+        "ru": "Вопросительные предложения заканчиваются вопросительным знаком."
+      }
+    },
+    {
+      "id": "ot-mx-12-19",
+      "prompt": {
+        "uz": "Bosh kelishikdagi ot qanday qo'shimchaga ega bo'ladi?",
+        "ru": "Какой суффикс имеет существительное в именительном падеже?"
+      },
+      "options": {
+        "uz": [
+          "-ni qo'shimchasi",
+          "-ning qo'shimchasi",
+          "-ga qo'shimchasi",
+          "Qo'shimchasiz keladi"
+        ],
+        "ru": [
+          "Суффикс -ni",
+          "Суффикс -ning",
+          "Суффикс -ga",
+          "Без суффикса"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "Bosh kelishikdagi ot hech qanday qo'shimchasiz, boshlang'ich shaklda keladi.",
+        "ru": "Существительное в именительном падеже употребляется без суффикса, в начальной форме."
+      }
+    },
+    {
+      "id": "ot-mx-12-20",
+      "prompt": {
+        "uz": "'Ikki eshik orasi' romani muallifi kim?",
+        "ru": "Кто автор романа 'Ikki eshik orasi'?"
+      },
+      "options": {
+        "uz": [
+          "Cho'lpon",
+          "Hamid Olimjon",
+          "Tog'ay Murod",
+          "Oybek"
+        ],
+        "ru": [
+          "Чулпан",
+          "Хамид Алимджан",
+          "Тогай Мурод",
+          "Айбек"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "'Ikki eshik orasi' — Tog'ay Murod qalamiga mansub asar.",
+        "ru": "'Ikki eshik orasi' — произведение писателя Тогая Мурода."
+      }
+    },
+    {
+      "id": "ot-mx-12-21",
+      "prompt": {
+        "uz": "Tushum kelishigi qaysi qo'shimcha bilan ifodalanadi?",
+        "ru": "Каким суффиксом выражается винительный падеж?"
+      },
+      "options": {
+        "uz": [
+          "-ga",
+          "-ning",
+          "-ni",
+          "-da"
+        ],
+        "ru": [
+          "-ga",
+          "-ning",
+          "-ni",
+          "-da"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Tushum kelishigi '-ni' qo'shimchasi bilan hosil bo'ladi (masalan: kitobni).",
+        "ru": "Винительный падеж образуется суффиксом '-ni' (например: kitobni)."
+      }
+    },
+    {
+      "id": "ot-mx-12-22",
+      "prompt": {
+        "uz": "Jo'nalish kelishigi qaysi qo'shimcha bilan ifodalanadi?",
+        "ru": "Каким суффиксом выражается направительный падеж?"
+      },
+      "options": {
+        "uz": [
+          "-dan",
+          "-ni",
+          "-ga",
+          "-ning"
+        ],
+        "ru": [
+          "-dan",
+          "-ni",
+          "-ga",
+          "-ning"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Jo'nalish kelishigi '-ga' qo'shimchasi bilan hosil bo'ladi (masalan: maktabga).",
+        "ru": "Направительный падеж образуется суффиксом '-ga' (например: maktabga)."
+      }
+    },
+    {
+      "id": "ot-mx-12-23",
+      "prompt": {
+        "uz": "Chiqish kelishigi qaysi qo'shimcha bilan ifodalanadi?",
+        "ru": "Каким суффиксом выражается исходный падеж?"
+      },
+      "options": {
+        "uz": [
+          "-ning",
+          "-dan",
+          "-ga",
+          "-ni"
+        ],
+        "ru": [
+          "-ning",
+          "-dan",
+          "-ga",
+          "-ni"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "Chiqish kelishigi '-dan' qo'shimchasi bilan hosil bo'ladi (masalan: uydan).",
+        "ru": "Исходный падеж образуется суффиксом '-dan' (например: uydan)."
+      }
+    },
+    {
+      "id": "ot-mx-12-24",
+      "prompt": {
+        "uz": "'Diyonat' romani muallifi kim?",
+        "ru": "Кто автор романа 'Diyonat'?"
+      },
+      "options": {
+        "uz": [
+          "Said Ahmad",
+          "O'tkir Hoshimov",
+          "Cho'lpon",
+          "Oybek"
+        ],
+        "ru": [
+          "Саид Ахмад",
+          "Уткир Хашимов",
+          "Чулпан",
+          "Айбек"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "uz": "'Diyonat' — O'tkir Hoshimovning mashhur romani.",
+        "ru": "'Diyonat' — известный роман Уткира Хашимова."
+      }
+    },
+    {
+      "id": "ot-mx-12-25",
+      "prompt": {
+        "uz": "'Dunyoning ishlari' romani muallifi kim?",
+        "ru": "Кто автор романа 'Dunyoning ishlari'?"
+      },
+      "options": {
+        "uz": [
+          "Cho'lpon",
+          "Oybek",
+          "O'tkir Hoshimov",
+          "Abdulla Qahhor"
+        ],
+        "ru": [
+          "Чулпан",
+          "Айбек",
+          "Уткир Хашимов",
+          "Абдулла Каххар"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "'Dunyoning ishlari' — O'tkir Hoshimov qalamiga mansub asar.",
+        "ru": "'Dunyoning ishlari' — произведение Уткира Хашимова."
+      }
+    },
+    {
+      "id": "ot-mx-12-26",
+      "prompt": {
+        "uz": "Bog'lovchi qaysi turkumga kiradi?",
+        "ru": "К какой группе относится союз (bog'lovchi)?"
+      },
+      "options": {
+        "uz": [
+          "Mustaqil so'z turkumi",
+          "Modal so'z",
+          "Yordamchi so'z turkumi",
+          "Undov"
+        ],
+        "ru": [
+          "Самостоятельная часть речи",
+          "Модальное слово",
+          "Служебная часть речи",
+          "Междометие"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "Bog'lovchilar gap bo'laklarini yoki gaplarni bog'lovchi yordamchi so'z turkumiga kiradi.",
+        "ru": "Союзы относятся к служебным частям речи и связывают члены предложения или предложения."
+      }
+    },
+    {
+      "id": "ot-mx-12-27",
+      "prompt": {
+        "uz": "O'zbek tilida nechta unli tovush mavjud?",
+        "ru": "Сколько гласных звуков в узбекском языке?"
+      },
+      "options": {
+        "uz": [
+          "6 ta",
+          "8 ta",
+          "5 ta",
+          "4 ta"
+        ],
+        "ru": [
+          "6",
+          "8",
+          "5",
+          "4"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "O'zbek adabiy tilida 6 ta unli tovush mavjud: a, e, i, o, u, o'.",
+        "ru": "В узбекском литературном языке 6 гласных звуков: a, e, i, o, u, o'."
+      }
+    },
+    {
+      "id": "ot-mx-12-28",
+      "prompt": {
+        "uz": "Antonim so'zlarga misol: 'issiq' so'zining zid ma'nolisi qaysi?",
+        "ru": "Какое слово является антонимом к 'issiq' (горячий)?"
+      },
+      "options": {
+        "uz": [
+          "Yumshoq",
+          "Iliq",
+          "Sovuq",
+          "Qattiq"
+        ],
+        "ru": [
+          "Мягкий",
+          "Тёплый",
+          "Холодный",
+          "Твёрдый"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "uz": "'Issiq' so'zining antonimi — 'sovuq'.",
+        "ru": "Антоним слова 'issiq' (горячий) — 'sovuq' (холодный)."
+      }
+    },
+    {
+      "id": "ot-mx-12-29",
+      "prompt": {
+        "uz": "Ega gapning qaysi bo'lagi hisoblanadi?",
+        "ru": "Каким членом предложения является подлежащее?"
+      },
+      "options": {
+        "uz": [
+          "Bosh bo'lak",
+          "Undalma",
+          "Ikkinchi darajali bo'lak",
+          "Kirish so'z"
+        ],
+        "ru": [
+          "Главный член",
+          "Обращение",
+          "Второстепенный член",
+          "Вводное слово"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "uz": "Ega gapning bosh bo'laklaridan biri bo'lib, harakat yoki holat egasini bildiradi.",
+        "ru": "Подлежащее — главный член предложения, обозначающий субъект действия или состояния."
+      }
+    },
+    {
+      "id": "ot-mx-12-30",
+      "prompt": {
+        "uz": "'Shum bola' asari muallifi kim?",
+        "ru": "Кто автор произведения 'Shum bola'?"
+      },
+      "options": {
+        "uz": [
+          "Cho'lpon",
+          "Oybek",
+          "Hamza",
+          "G'afur G'ulom"
+        ],
+        "ru": [
+          "Чулпан",
+          "Айбек",
+          "Хамза",
+          "Гафур Гулям"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "uz": "'Shum bola' — G'afur G'ulomning mashhur avtobiografik qissasi.",
+        "ru": "'Shum bola' — известная автобиографическая повесть Гафура Гуляма."
+      }
+    }
+  ]
+}
